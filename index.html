@@ -17,7 +17,7 @@
 <body>
     <div class="container">
         <h1>EP/GP Standings</h1>
-        <h4 id="date"></h4>
+        <select id="selectDate" onchange="updateTable()"></select>
         <hr>
         <table id="epgp_standings" class="table table-striped table-bordered" style="width:100%"></table>
     </div>
@@ -36,19 +36,31 @@
                 url: "https://api.github.com/repos/LessIsMoreGuild/LessIsMoreGuild.github.io/commits?path=epgp_standings.csv",
                 dataType: "json",
                 success: function(data) {
-                    commit_date = new Date(data[0]["commit"]["author"]["date"]).toLocaleString();
-                    document.getElementById("date").innerHTML = commit_date
+                    var select = document.getElementById("selectDate");
+                    for (i = 0; i < data.length; i++) {
+                        var commit_date = new Date(data[i]["commit"]["author"]["date"]).toLocaleString();
+                        var commit_sha = data[i]["sha"]
+                        var el = document.createElement("option");
+                        el.textContent = commit_date;
+                        el.value = commit_sha;
+                        select.appendChild(el);
+                    }
+                    updateTable()
                 }
             })
+        });
+
+        function updateTable() {
+            var x = document.getElementById("selectDate").value;
             $.ajax({
                 type: "GET",
-                url: "epgp_standings.csv",
+                url: "https://raw.githubusercontent.com/LessIsMoreGuild/LessIsMoreGuild.github.io/" + x + "/epgp_standings.csv",
                 dataType: "text",
                 success: function(data) {
                     processData(data);
                 }
             });
-        });
+        }
 
         function processData(csv) {
             var allTextLines = csv.split(/\r\n|\n/);
@@ -94,6 +106,7 @@
                 });
             }
             $('#epgp_standings').DataTable({
+                "destroy": true,
                 "order": [
                     [3, "desc"]
                 ]
