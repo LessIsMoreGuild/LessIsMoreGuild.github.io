@@ -29,23 +29,22 @@
             <div class="collapse navbar-collapse" id="navbarColor02">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.html">EP/GP Standings</a>
+                        <a class="nav-link" href="index.html">EP/GP Standings</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="epgold.html">EP/Gold Log</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link" href="loot.html">Loot log</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
+
     <div class="container">
         <h1></h1>
-        <select id="selectDate" onchange="updateTable()"></select>
-        <hr>
-        <table id="epgp_standings" class="table table-striped table-bordered" style="width:100%"></table>
+        <table id="loot_history" class="table table-striped table-bordered" style="width:100%"></table>
     </div>
 
 
@@ -57,72 +56,59 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://wow.zamimg.com/widgets/power.js"></script>
+    <script>
+        const whTooltips = {
+            colorLinks: true,
+            iconizeLinks: true,
+            renameLinks: true,
+        };
+    </script>
     <script>
         $(document).ready(function() {
             $.ajax({
                 type: "GET",
-                url: "https://api.github.com/repos/LessIsMoreGuild/LessIsMoreGuild.github.io/commits?path=epgp_standings.csv",
-                dataType: "json",
+                url: "https://raw.githubusercontent.com/LessIsMoreGuild/LessIsMoreGuild.github.io/master/lootlog.csv",
+                dataType: "text",
                 success: function(data) {
-                    var select = document.getElementById("selectDate");
-                    for (i = 0; i < data.length; i++) {
-                        var commit_date = new Date(data[i]["commit"]["author"]["date"]).toLocaleString();
-                        var commit_sha = data[i]["sha"]
-                        var el = document.createElement("option");
-                        el.textContent = commit_date;
-                        el.value = commit_sha;
-                        select.appendChild(el);
-                    }
-                    updateTable()
+                    processData(data)
                 }
             })
         });
 
-        function updateTable() {
-            var x = document.getElementById("selectDate").value;
-            $.ajax({
-                type: "GET",
-                url: "https://raw.githubusercontent.com/LessIsMoreGuild/LessIsMoreGuild.github.io/" + x + "/epgp_standings.csv",
-                dataType: "text",
-                success: function(data) {
-                    processData(data);
-                }
-            });
-        }
-
-        function processData(csv) {
+        function processData(csv, commit_date) {
             var allTextLines = csv.split(/\r\n|\n/);
-            var lines = [];
+            var table = document.getElementById("loot_history");
+            //Clear previous data
+            table.innerHTML = "";
+            var lines = {};
 
             //first line of csv
             var keys = allTextLines.shift().split(';');
+            keys.pop() //remove ID
 
-            while (allTextLines.length) {
-                var arr = allTextLines.shift().split(';');
-                if (arr.length == 4) {
-                    var obj = {};
-                    for (var i = 0; i < keys.length; i++) {
-                        obj[keys[i]] = Number(arr[i]) ? Number(arr[i]) : arr[i];
-                    }
-                    lines.push(obj);
-                }
-            }
-            drawTable(lines);
-        }
-
-        function drawTable(lines) {
-            var table = document.getElementById("epgp_standings");
-            //Clear previous data
-            table.innerHTML = "";
-
-            //for the table headings
             var tableHeader = table.createTHead();
             var row = tableHeader.insertRow(-1);
-            Object.keys(lines[0]).forEach(function(key) {
+            keys.forEach(function(key) {
                 var el = document.createElement("TH");
                 el.innerHTML = key;
                 row.appendChild(el);
             });
+
+            var tableBody = table.createTBody();
+            while (allTextLines.length) {
+                var row = tableBody.insertRow(-1);
+                var arr = allTextLines.shift().split(';');
+                if (arr.length == 5) {
+                    date = arr[0]
+                    item = arr[1]
+                    looter = arr[2]
+                    roll = arr[3]
+                    itemID = arr[4]
+                    row.innerHTML = "<td>" + date + "</td><td><a href='#' data-wowhead='item=" + itemID + "&domain=classic'>" + item + "</a></td><td>" + looter + "</td><td>" + roll + "</td>";
+                }
+            }
+
 
             //the data
             var tableBody = table.createTBody();
@@ -133,15 +119,25 @@
                     data.appendChild(document.createTextNode(lines[i][key]));
                 });
             }
-            $('#epgp_standings').DataTable({
-                "destroy": true,
-                "pageLength": 25,
-                "order": [
-                    [3, "desc"]
-                ]
-            });
+
+            $WowheadPower.refreshLinks()
+            setTimeout(function() {
+                $('#loot_history').DataTable({
+                    "order": [
+                        [0, "desc"]
+                    ],
+                    "pageLength": 25,
+                    //"fnDrawCallback": function(oSettings) {
+                    //    $WowheadPower.refreshLinks()
+                    //}
+                });
+            }, 1000)
+
+
+
         }
     </script>
 </body>
+
 
 </html>
