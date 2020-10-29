@@ -41,8 +41,10 @@
             </div>
         </div>
     </nav>
-    <div class="container">
+    <div id="graph_container" class="container-fluid" style="background-color: #222;">
         <div id="pr_graph" class="container" style="width:100%"></div>
+    </div>
+    <div class="container">
         <h1></h1>
         <select id="selectDate" onchange="updateTable()"></select>
         <hr>
@@ -59,15 +61,44 @@
     <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script>
+        let class_colors = {
+            Druid: "#FF7D0A",
+            Hunter: "#ABD473",
+            Mage: "#69CCF0",
+            Paladin: "#F58CBA",
+            Priest: "#FFFFFF",
+            Rogue: "#FFF569",
+            Shaman: "#0070DE",
+            Warlock: "#9482C9",
+            Warrior: "#C79C6E",
+        }
+        let member = new Map()
         $(document).ready(function() {
             $.ajax({
                 type: "GET",
-                url: "https://api.github.com/repos/LessIsMoreGuild/LessIsMoreGuild.github.io/commits?path=epgp_standings.csv",
-                dataType: "json",
-                success: function(commits) {
-                    updateSelectDate(commits);
-                    updateTable();
-                    createGraph(commits, commits.length - 1, true);
+                url: "https://raw.githubusercontent.com/LessIsMoreGuild/LessIsMoreGuild.github.io/master/guild_roster.csv",
+                dataType: "text",
+                success: function(roster) {
+                    var allTextLines = roster.split(/\r\n|\n/);
+                    while (allTextLines.length) {
+                        var arr = allTextLines.shift().split(';');
+                        if (arr.length == 2) {
+                            player_name = arr[0]
+                            player_class = arr[1]
+                            member.set(player_name, player_class);
+                        }
+                    }
+
+                    $.ajax({
+                        type: "GET",
+                        url: "https://api.github.com/repos/LessIsMoreGuild/LessIsMoreGuild.github.io/commits?path=epgp_standings.csv",
+                        dataType: "json",
+                        success: function(commits) {
+                            updateSelectDate(commits);
+                            updateTable();
+                            createGraph(commits, commits.length - 1, true);
+                        }
+                    })
                 }
             })
         });
@@ -102,20 +133,66 @@
                     var processedData = processData(data);
 
                     var layout = {
-                        hovermode: "closest"
+                        hovermode: "closest",
+                        paper_bgcolor: '#222',
+                        plot_bgcolor: '#222',
+                        titlefont: {
+                            color: "#fff"
+                        },
+                        xaxis: {
+                            titlefont: {
+                                color: "#fff"
+                            },
+                            tickcolor: "#666",
+                            tickfont: {
+                                color: "#fff"
+                            },
+                            rangemode: "tozero",
+                            gridcolor: "#666",
+                            linecolor: "#999",
+                        },
+                        yaxis: {
+                            titlefont: {
+                                color: "#fff"
+                            },
+                            tickcolor: "#666",
+                            tickfont: {
+                                color: "#fff"
+                            },
+                            rangemode: "tozero",
+                            gridcolor: "#666",
+                            linecolor: "#999"
+                        },
+                        hovermode: "closest",
+                        legend: {
+                            font: {
+                                color: "#fff"
+                            }
+                        }
                     };
 
                     var traces = [];
                     processedData.forEach(player => {
                         var date = commit.commit.author.date.split('T')[0];
-                        if (!graphMap.has(player.Name))
+                        if (!graphMap.has(player.Name)) {
+                            player_color = "#333333"
+                            if (member.has(player.Name)) {
+                                player_color = class_colors[member.get(player.Name)]
+                            }
+
                             graphMap.set(player.Name, {
                                 name: player.Name,
                                 x: [date],
                                 y: [player.pr],
-                                mode: "lines+markers"
+                                mode: "lines+markers",
+                                marker: {
+                                    color: player_color,
+                                },
+                                line: {
+                                    color: player_color,
+                                }
                             });
-                        else {
+                        } else {
                             var entry = graphMap.get(player.Name);
                             entry.x.push(date);
                             entry.y.push(player.pr);
