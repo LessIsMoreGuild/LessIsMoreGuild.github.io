@@ -41,7 +41,8 @@
             </div>
         </div>
     </nav>
-    <div class="container">
+    <div class="container">        
+        <div id="pr_graph" class="container" style="width:100%"></div>
         <h1></h1>
         <select id="selectDate" onchange="updateTable()"></select>
         <hr>
@@ -63,20 +64,75 @@
                 type: "GET",
                 url: "https://api.github.com/repos/LessIsMoreGuild/LessIsMoreGuild.github.io/commits?path=epgp_standings.csv",
                 dataType: "json",
-                success: function(data) {
-                    var select = document.getElementById("selectDate");
-                    for (i = 0; i < data.length; i++) {
-                        var commit_date = new Date(data[i]["commit"]["author"]["date"]).toLocaleString();
-                        var commit_sha = data[i]["sha"]
+                success: function(commits) {
+                    updateSelectDate(commits);
+                    updateTable();
+                    createGraph(commits, commits.length - 1, true);
+                }
+            })
+        });
+
+        function updateSelectDate(commits)
+        {
+            var select = document.getElementById("selectDate");
+                    for (i = 0; i < commits.length; i++) {
+                        var commit_date = new Date(commits[i]["commit"]["author"]["date"]).toLocaleString();
+                        var commit_sha = commits[i]["sha"]
                         var el = document.createElement("option");
                         el.textContent = commit_date;
                         el.value = commit_sha;
                         select.appendChild(el);
                     }
-                    updateTable()
+        }
+
+        function createGraph(commits, index, newGraph){                      
+            addCommitToGraph(commits[index], newGraph).done(function() {
+                if(index > 0)
+                    createGraph(commits, --index, false);
+            });
+        }
+
+        function GetCommit(sha)
+        {
+                
+        }
+
+        let graphMap = new Map();
+        function addCommitToGraph(commit, newPlot)
+        {
+            return $.ajax({
+                type: "GET",
+                url: "https://raw.githubusercontent.com/LessIsMoreGuild/LessIsMoreGuild.github.io/" + commit.sha + "/epgp_standings.csv",
+                dataType: "text",
+                success: function(data) {
+                    var processedData = processData(data);                   
+
+                    var layout = {
+                        hovermode: "closest"
+                    };
+
+                    var traces = [];
+                    processedData.forEach(player => {
+                        var date = commit.commit.author.date.split('T')[0];
+                        if(!graphMap.has(player.Name))
+                            graphMap.set(player.Name, { name : player.Name, x : [date], y : [player.pr], mode : "lines+markers"});
+                        else
+                        {
+                            var entry = graphMap.get(player.Name);
+                            entry.x.push(date);
+                            entry.y.push(player.pr);
+                        }
+                            
+                        traces.push(graphMap.get(player.Name));
+                    });
+                    
+                    if(newPlot)
+                        Plotly.newPlot('pr_graph', traces, layout);
+                    else
+                        Plotly.react('pr_graph', traces, layout);
                 }
-            })
-        });
+                }).promise();                       
+        }
 
         function updateTable() {
             var x = document.getElementById("selectDate").value;
@@ -85,7 +141,8 @@
                 url: "https://raw.githubusercontent.com/LessIsMoreGuild/LessIsMoreGuild.github.io/" + x + "/epgp_standings.csv",
                 dataType: "text",
                 success: function(data) {
-                    processData(data);
+                    var processedData = processData(data);
+                    drawTable(processedData);
                 }
             });
         }
@@ -107,7 +164,7 @@
                     lines.push(obj);
                 }
             }
-            drawTable(lines);
+            return lines;
         }
 
         function drawTable(lines) {
