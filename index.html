@@ -123,6 +123,7 @@
         }
 
         let graphMap = new Map();
+        let max_pr = 0;
 
         function addCommitToGraph(commit, newPlot) {
             return $.ajax({
@@ -161,7 +162,7 @@
                             },
                             rangemode: "tozero",
                             gridcolor: "#666",
-                            linecolor: "#999"
+                            linecolor: "#999",
                         },
                         hovermode: "closest",
                         legend: {
@@ -174,12 +175,12 @@
                     var traces = [];
                     processedData.forEach(player => {
                         var date = commit.commit.author.date.split('T')[0];
+                        max_pr = Math.max(max_pr, player.pr)
                         if (!graphMap.has(player.Name)) {
                             player_color = "#333333"
                             if (member.has(player.Name)) {
                                 player_color = class_colors[member.get(player.Name)]
                             }
-
                             graphMap.set(player.Name, {
                                 name: player.Name,
                                 x: [date],
@@ -201,6 +202,7 @@
                         traces.push(graphMap.get(player.Name));
                     });
                     traces.sort((a, b) => b.y[b.y.length - 1] - a.y[a.y.length - 1]);
+                    layout["yaxis"]["range"] = [0, max_pr + 5]
                     if (newPlot)
                         Plotly.newPlot('pr_graph', traces, layout);
                     else
