@@ -97,9 +97,9 @@
 
             var tableBody = table.createTBody();
             while (allTextLines.length) {
-                var row = tableBody.insertRow(-1);
                 var arr = allTextLines.shift().split(';');
                 if (arr.length == 5) {
+                    var row = tableBody.insertRow(-1);
                     date = arr[0]
                     item = arr[1]
                     looter = arr[2]
