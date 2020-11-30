@@ -1,102 +1,64 @@
 Time;Item;Looter;GP Action;ID
-2020-06-07 20:00:58;[Rune of Metamorphosis];Lomeluin;Bank-D/E;19340
-2020-06-07 20:01:54;[Waistband of Wrath];Crayven;Bank-D/E;16960
-2020-06-07 20:11:48;[Venomous Totem];Arlis;Bank-D/E;19342
+2020-06-07 20:01:54;[Waistband of Wrath];Crayven;Offspec GP;16960
 2020-06-07 20:12:44;[Boots of Transcendence];Bombalgir;Offspec GP;16919
-2020-06-07 20:13:38;[Nemesis Boots];Arlis;Bank-D/E;16927
 2020-06-07 20:23:01;[Legguards of the Fallen Crusader];Zann;Mainspec GP;19402
-2020-06-07 20:23:42;[Drake Talon Cleaver];Zumolicious;Bank-D/E;19353
-2020-06-07 20:29:20;[Band of Dark Dominion];Arlis;Bank-D/E;19434
+2020-06-07 20:23:42;[Drake Talon Cleaver];Zumolicious;Offspec GP;19353
 2020-06-07 20:38:47;[Netherwind Gloves];Lomeluin;Mainspec GP;16913
-2020-06-07 20:39:08;[Aegis of Preservation];Faine;Bank-D/E;19345
-2020-06-07 20:41:41;[Ring of Blackrock];Arlis;Bank-D/E;19397
-2020-06-07 20:42:00;[Herald of Woe];Arlis;Bank-D/E;19357
-2020-06-07 20:50:00;[Pauldrons of Transcendence];Faine;Bank-D/E;16924
-2020-06-07 20:50:26;[Shimmering Geta];Sorci;Bank-D/E;19391
-2020-06-07 20:51:17;[Netherwind Mantle];Xzoe;Bank-D/E;16917
+2020-06-07 20:39:08;[Aegis of Preservation];Faine;Offspec GP;19345
+2020-06-07 20:51:17;[Netherwind Mantle];Xzoe;Offspec GP;16917
 2020-06-07 20:52:12;[Chromatic Boots];Hunksfox;Mainspec GP;19387
-2020-06-07 20:59:42;[Breastplate of Wrath];Naalia;Bank-D/E;16966
-2020-06-07 20:59:57;[Stormrage Chestguard];Arlis;Bank-D/E;16897
+2020-06-07 20:59:42;[Breastplate of Wrath];Naalia;Offspec GP;16966
 2020-06-07 21:00:25;[Crul'shorukh, Edge of Chaos];Zumolicious;Mainspec GP;19363
-2020-06-07 21:00:48;[Therazane's Link];Rhyper;Bank-D/E;19380
-2020-06-07 21:02:20;[Head of Nefarian];Belesh;Bank-D/E;19002
-2020-06-14 19:47:03;[Judgement Bindings];Arlis;Bank-D/E;16951
-2020-06-14 19:47:19;[Arcane Infused Gem];Arlis;Bank-D/E;19336
+2020-06-07 21:00:48;[Therazane's Link];Rhyper;Offspec GP;19380
+2020-06-07 21:02:20;[Head of Nefarian];Belesh;Offspec GP;19002
 2020-06-14 19:48:40;[Netherwind Bindings];Xzoe;Offspec GP;16918
-2020-06-14 19:52:19;[Judgement Belt];Arlis;Bank-D/E;16952
-2020-06-14 19:52:51;[Stormrage Belt];Arlis;Bank-D/E;16903
-2020-06-14 19:53:14;[Rune of Metamorphosis];Lomeluin;Bank-D/E;19340
 2020-06-14 19:54:20;[Cloak of Draconic Might];Zann;Mainspec GP;19436
-2020-06-14 20:06:06;[Lifegiving Gem];Zumolicious;Bank-D/E;19341
-2020-06-14 20:06:42;[Nemesis Boots];Arlis;Bank-D/E;16927
+2020-06-14 20:06:06;[Lifegiving Gem];Zumolicious;Offspec GP;19341
 2020-06-14 20:08:23;[Boots of Transcendence];Radogan;Offspec GP;16919
 2020-06-14 20:13:15;[Handguards of Transcendence];Newk;Mainspec GP;16920
-2020-06-14 20:13:47;[Legguards of the Fallen Crusader];Maro;Bank-D/E;19402
+2020-06-14 20:13:47;[Legguards of the Fallen Crusader];Maro;Offspec GP;19402
 2020-06-14 20:28:01;[Dragonstalker's Gauntlets];Choult;Mainspec GP;16940
 2020-06-14 20:28:46;[Malfurion's Blessed Bulwark];Nithalf;Offspec GP;19405
-2020-06-14 20:30:44;[Bloodfang Gloves];Schellenmann;Bank-D/E;16907
-2020-06-14 20:32:05;[Herald of Woe];Crayven;Bank-D/E;19357
-2020-06-14 20:36:58;[Pauldrons of Wrath];Arlis;Bank-D/E;16961
-2020-06-14 20:37:20;[Elementium Threaded Cloak];Arlis;Bank-D/E;19386
+2020-06-14 20:30:44;[Bloodfang Gloves];Schellenmann;Offspec GP;16907
+2020-06-14 20:32:05;[Herald of Woe];Crayven;Offspec GP;19357
+2020-06-14 20:37:20;[Elementium Threaded Cloak];Arlis;Offspec GP;19386
 2020-06-14 20:37:40;[Dragonstalker's Spaulders];Rhyme;Mainspec GP;16937
-2020-06-14 20:38:20;[Angelista's Grasp];Radogan;Bank-D/E;19388
+2020-06-14 20:38:20;[Angelista's Grasp];Radogan;Offspec GP;19388
 2020-06-14 20:45:37;[Dragonstalker's Breastplate];Rhyme;Mainspec GP;16942
-2020-06-14 20:45:56;[Nemesis Robes];Arlis;Bank-D/E;16931
 2020-06-14 20:46:23;[Mish'undare, Circlet of the Mind Flayer];Wysiwyg;Mainspec GP;19375
 2020-06-14 20:46:57;[Pure Elementium Band];Trixxy;Mainspec GP;19382
-2020-06-14 20:47:42;[Head of Nefarian];Maro;Bank-D/E;19002
-2020-06-21 19:52:27;[Bracelets of Wrath];Gnomling;Bank-D/E;16959
+2020-06-14 20:47:42;[Head of Nefarian];Maro;Offspec GP;19002
 2020-06-21 19:57:09;[Helm of Endless Rage];Zann;Offspec GP;19372
-2020-06-21 19:57:35;[Stormrage Belt];Arlis;Bank-D/E;16903
 2020-06-21 20:01:10;[Draconic Maul];Arlis;Offspec GP;19358
-2020-06-21 20:09:52;[Venomous Totem];Arlis;Bank-D/E;19342
-2020-06-21 20:10:15;[Stormrage Boots];Arlis;Bank-D/E;16898
-2020-06-21 20:10:44;[Stormrage Boots];Arlis;Bank-D/E;16898
-2020-06-21 20:17:22;[Stormrage Handguards];Arlis;Bank-D/E;16899
 2020-06-21 20:38:59;[Dragonstalker's Gauntlets];Rhyper;Mainspec GP;16940
 2020-06-21 20:39:39;[Dragonbreath Hand Cannon];Naalia;Offspec GP;19368
 2020-06-21 20:41:31;[Bloodfang Gloves];Gnomling;Offspec GP;16907
 2020-06-21 20:41:53;[Circle of Applied Force];Arlis;Offspec GP;19432
-2020-06-21 20:48:34;[Nemesis Spaulders];Arlis;Bank-D/E;16932
-2020-06-21 20:49:05;[Elementium Threaded Cloak];Arlis;Bank-D/E;19386
 2020-06-21 20:49:39;[Judgement Spaulders];Darlia;Offspec GP;16953
 2020-06-21 20:50:00;[Angelista's Grasp];Wysiwyg;Offspec GP;19388
 2020-06-21 20:58:12;[Robes of Transcendence];Radogan;Mainspec GP;16923
-2020-06-21 20:58:26;[Bloodfang Chestpiece];Arlis;Bank-D/E;16905
 2020-06-21 20:59:04;[Mish'undare, Circlet of the Mind Flayer];Lomeluin;Mainspec GP;19375
 2020-06-21 20:59:25;[Neltharion's Tear];Sorci;Mainspec GP;19379
-2020-06-21 21:00:11;[Head of Nefarian];Trixxy;Bank-D/E;19002
+2020-06-21 21:00:11;[Head of Nefarian];Trixxy;Offspec GP;19002
 2020-06-28 19:44:45;[Netherwind Bindings];Lomeluin;Offspec GP;16918
 2020-06-28 19:44:50;[Netherwind Bindings];Sorci;Offspec GP;16918
-2020-06-28 19:45:00;[Arcane Infused Gem];Arlis;Bank-D/E;19336
 2020-06-28 19:47:34;[Belt of Transcendence];Radogan;Mainspec GP;16925
 2020-06-28 19:48:59;[Pendant of the Fallen Dragon];Trezôr;Mainspec GP;19371
 2020-06-28 19:49:27;[Netherwind Belt];Xzoe;Offspec GP;16818
-2020-06-28 20:01:31;[Boots of Transcendence];Arlis;Bank-D/E;16919
 2020-06-28 20:02:00;[Dragonstalker's Greaves];Choult;Mainspec GP;16941
-2020-06-28 20:02:10;[Venomous Totem];Arlis;Bank-D/E;19342
 2020-06-28 20:10:03;[Rejuvenating Gem];Wongson;Mainspec GP;19395
 2020-06-28 20:10:38;[Firemaw's Clutch];Newk;Mainspec GP;19400
-2020-06-28 20:23:47;[Nemesis Gloves];Arlis;Bank-D/E;16928
 2020-06-28 20:24:23;[Band of Forced Concentration];Xzoe;Mainspec GP;19403
-2020-06-28 20:25:46;[Nemesis Gloves];Arlis;Bank-D/E;16928
 2020-06-28 20:26:31;[Emberweave Leggings];Zann;Offspec GP;19433
 2020-06-28 20:28:03;[Interlaced Shadow Jerkin];Nessy;Offspec GP;19439
-2020-06-28 20:28:16;[Interlaced Shadow Jerkin];Arlis;Bank-D/E;19439
 2020-06-28 20:33:18;[Chromatic Boots];Crayven;Mainspec GP;19387
 2020-06-28 20:33:41;[Girdle of the Fallen Crusader];Trezôr;Offspec GP;19392
-2020-06-28 20:33:51;[Stormrage Pauldrons];Arlis;Bank-D/E;16902
-2020-06-28 20:34:04;[Nemesis Spaulders];Arlis;Bank-D/E;16932
-2020-06-28 20:40:39;[Netherwind Robes];Arlis;Bank-D/E;16916
-2020-06-28 20:40:49;[Stormrage Chestguard];Arlis;Bank-D/E;16897
 2020-06-28 20:41:15;[Cloak of the Brood Lord];Arlis;Offspec GP;19378
 2020-06-28 20:41:39;[Pure Elementium Band];Radogan;Mainspec GP;19382
 2020-06-28 20:42:00;[Head of Nefarian];Lomeluin;Offspec GP;19002
 2020-07-05 19:44:38;[Mantle of the Blackwing Cabal];Wysiwyg;Mainspec GP;19370
 2020-07-05 19:45:17;[Bracelets of Wrath];Tasêrfacê;Offspec GP;16959
-2020-07-05 19:45:20;[Netherwind Bindings];Arlis;Bank-D/E;16918
 2020-07-05 19:47:53;[Bloodfang Belt];Nessy;Mainspec GP;16910
-2020-07-05 19:48:09;[Rune of Metamorphosis];Lomeluin;Bank-D/E;19340
 2020-07-05 19:48:27;[Netherwind Belt];Sorci;Offspec GP;16818
 2020-07-05 19:50:54;[Cloak of Draconic Might];Hunksfox;Mainspec GP;19436
 2020-07-05 20:00:04;[Heartstriker];Schellenmann;Offspec GP;19350
@@ -105,133 +67,78 @@ Time;Item;Looter;GP Action;ID
 2020-07-05 20:04:52;[Essence Gatherer];Bombalgir;Offspec GP;19435
 2020-07-05 20:07:12;[Rejuvenating Gem];Darlia;Mainspec GP;19395
 2020-07-05 20:07:38;[Firemaw's Clutch];Radogan;Mainspec GP;19400
-2020-07-05 20:20:33;[Nemesis Gloves];Avón;Bank-D/E;16928
 2020-07-05 20:21:08;[Ebony Flame Gloves];Bombalgir;Offspec GP;19407
-2020-07-05 20:22:28;[Stormrage Handguards];Arlis;Bank-D/E;16899
+2020-07-05 20:22:28;[Stormrage Handguards];Arlis;Offspec GP;16899
 2020-07-05 20:22:56;[Dragon's Touch];Lomeluin;Offspec GP;19367
 2020-07-05 20:27:47;[Chromatic Boots];Zann;Mainspec GP;19387
 2020-07-05 20:28:13;[Judgement Spaulders];Trezôr;Offspec GP;16953
-2020-07-05 20:28:28;[Shimmering Geta];Arlis;Bank-D/E;19391
 2020-07-05 20:28:42;[Netherwind Mantle];Belesh;Offspec GP;16917
 2020-07-05 20:35:31;[Neltharion's Tear];Faine;Mainspec GP;19379
 2020-07-05 20:35:54;[Mish'undare, Circlet of the Mind Flayer];Riese;Mainspec GP;19375
 2020-07-05 20:36:41;[Breastplate of Wrath];Zann;Offspec GP;16966
 2020-07-05 20:36:59;[Netherwind Robes];Belesh;Offspec GP;16916
 2020-07-05 20:37:39;[Head of Nefarian];Faine;Offspec GP;19002
-2020-07-12 19:47:39;[Netherwind Bindings];Arlis;Bank-D/E;16918
-2020-07-12 19:47:46;[The Black Book];Arlis;Bank-D/E;19337
 2020-07-12 19:48:10;[Bloodfang Bracers];Gnomling;Mainspec GP;16911
-2020-07-12 19:52:29;[Belt of Transcendence];Arlis;Bank-D/E;16925
 2020-07-12 19:53:11;[Helm of Endless Rage];Tasêrfacê;Offspec GP;19372
 2020-07-12 19:53:44;[Bloodfang Belt];Gnomling;Mainspec GP;16910
 2020-07-12 20:10:26;[Heartstriker];Pitscher;Offspec GP;19350
-2020-07-12 20:10:38;[Nemesis Boots];Avón;Bank-D/E;16927
-2020-07-12 20:10:46;[Nemesis Boots];Arlis;Bank-D/E;16927
 2020-07-12 20:25:08;[Judgement Gauntlets];Trezôr;Offspec GP;16956
 2020-07-12 20:25:58;[Claw of the Black Drake];Pitscher;Offspec GP;19365
 2020-07-12 20:32:32;[Band of Dark Dominion];Wongson;Offspec GP;19434
 2020-07-12 20:34:02;[Band of Dark Dominion];Bombalgir;Offspec GP;19434
 2020-07-12 20:46:40;[Handguards of Transcendence];Bombalgir;Mainspec GP;16920
 2020-07-12 20:47:17;[Aegis of Preservation];Bombalgir;Offspec GP;19345
-2020-07-12 20:49:26;[Taut Dragonhide Belt];Arlis;Bank-D/E;19396
 2020-07-12 20:50:40;[Circle of Applied Force];Nadila;Offspec GP;19432
 2020-07-12 20:52:34;[Interlaced Shadow Jerkin];Chokeon;Offspec GP;19439
 2020-07-12 20:59:23;[Chromatically Tempered Sword];Chokeon;Mainspec GP;19352
-2020-07-12 20:59:33;[Stormrage Pauldrons];Arlis;Bank-D/E;16902
+2020-07-12 20:59:33;[Stormrage Pauldrons];Arlis;Offspec GP;16902
 2020-07-12 20:59:47;[Pauldrons of Transcendence];Radogan;Mainspec GP;16924
-2020-07-12 21:00:05;[Taut Dragonhide Gloves];Arlis;Bank-D/E;19390
 2020-07-12 21:12:45;[Robes of Transcendence];Newk;Mainspec GP;16923
-2020-07-12 21:12:54;[Judgement Breastplate];Gnomling;Bank-D/E;16958
-2020-07-12 21:12:57;[Mish'undare, Circlet of the Mind Flayer];Gnomling;Bank-D/E;19375
-2020-07-12 21:13:01;[Therazane's Link];Gnomling;Bank-D/E;19380
-2020-07-12 21:13:04;[Head of Nefarian];Gnomling;Bank-D/E;19002
-2020-07-12 21:37:57;[Lawbringer Boots];Trezôr;Bank-D/E;16859
+2020-07-12 21:37:57;[Lawbringer Boots];Trezôr;Offspec GP;16859
 2020-07-26 20:13:47;[Maladath, Runed Blade of the Black Flight];Tamu;Mainspec GP;19351
 2020-07-26 20:14:34;[Dragonstalker's Greaves];Rhyper;Mainspec GP;16941
 2020-07-26 20:15:18;[Sabatons of Wrath];Pitscher;Offspec GP;16965
 2020-07-26 20:35:46;[Claw of the Black Drake];Tasêrfacê;Offspec GP;19365
-2020-07-26 20:35:59;[Stormrage Handguards];Maro;Bank-D/E;16899
 2020-07-26 20:42:13;[Essence Gatherer];Sorci;Offspec GP;19435
-2020-07-26 21:02:59;[Nemesis Gloves];Maro;Bank-D/E;16928
-2020-07-26 21:03:15;[Ebony Flame Gloves];Maro;Bank-D/E;19407
 2020-07-26 21:05:48;[Netherwind Gloves];Sorci;Mainspec GP;16913
 2020-07-26 21:06:15;[Circle of Applied Force];Zann;Offspec GP;19432
 2020-07-26 21:16:02;[Dragonstalker's Spaulders];Choult;Offspec GP;16937
-2020-07-26 21:16:09;[Dragonstalker's Spaulders];Maro;Bank-D/E;16937
 2020-07-26 21:16:39;[Empowered Leggings];Trezôr;Mainspec GP;19385
-2020-07-26 21:16:53;[Shimmering Geta];Maro;Bank-D/E;19391
 2020-07-26 21:26:45;[Mish'undare, Circlet of the Mind Flayer];Belesh;Mainspec GP;19375
 2020-07-26 21:27:27;[Judgement Breastplate];Trezôr;Offspec GP;16958
-2020-07-26 21:27:59;[Bloodfang Chestpiece];Maro;Bank-D/E;16905
-2020-07-26 21:28:14;[Therazane's Link];Maro;Bank-D/E;19380
 2020-07-26 21:28:45;[Head of Nefarian];Aionara;Mainspec GP;19002
 2020-08-02 19:48:12;[Bloodfang Bracers];Schellenmann;Mainspec GP;16911
 2020-08-02 19:50:00;[The Untamed Blade];Pitscher;Mainspec GP;19334
-2020-08-02 19:52:48;[Dragonstalker's Belt];Arlis;Bank-D/E;16936
 2020-08-02 19:53:38;[Helm of Endless Rage];Crayven;Offspec GP;19372
 2020-08-02 19:54:05;[Nemesis Belt];Riese;Offspec GP;16933
 2020-08-02 20:07:37;[Bloodfang Boots];Schellenmann;Offspec GP;16906
-2020-08-02 20:07:51;[Stormrage Boots];Arlis;Bank-D/E;16898
-2020-08-02 20:10:30;[Head of the Broodlord Lashlayer];Zann;Bank-D/E;20383
-2020-08-02 20:24:30;[Bloodfang Gloves];Arlis;Bank-D/E;16907
+2020-08-02 20:10:30;[Head of the Broodlord Lashlayer];Zann;Offspec GP;20383
 2020-08-02 20:24:54;[Cloak of Firemaw];Pitscher;Mainspec GP;19398
-2020-08-02 20:38:14;[Interlaced Shadow Jerkin];Arlis;Bank-D/E;19439
 2020-08-02 20:41:10;[Gauntlets of Wrath];Naiko;Offspec GP;16964
-2020-08-02 20:41:36;[Ebony Flame Gloves];Avón;Bank-D/E;19407
 2020-08-02 20:44:05;[Drake Talon Cleaver];Nadila;Offspec GP;19353
 2020-08-02 20:45:07;[Circle of Applied Force];Tasêrfacê;Offspec GP;19432
 2020-08-02 20:51:53;[Chromatically Tempered Sword];Hunksfox;Mainspec GP;19352
-2020-08-02 20:52:11;[Pauldrons of Transcendence];Arlis;Bank-D/E;16924
-2020-08-02 20:52:24;[Girdle of the Fallen Crusader];Arlis;Bank-D/E;19392
-2020-08-02 20:52:33;[Stormrage Pauldrons];Arlis;Bank-D/E;16902
 2020-08-02 20:59:29;[Neltharion's Tear];Maddi;Mainspec GP;19379
-2020-08-02 20:59:38;[Stormrage Chestguard];Arlis;Bank-D/E;16897
-2020-08-02 20:59:55;[Bloodfang Chestpiece];Arlis;Bank-D/E;16905
 2020-08-02 21:00:45;[Prestor's Talisman of Connivery];Schellenmann;Mainspec GP;19377
 2020-08-02 21:01:20;[Head of Nefarian];Choult;Offspec GP;19002
-2020-08-09 19:51:39;[Bloodfang Bracers];Arlis;Bank-D/E;16911
-2020-08-09 19:51:50;[The Black Book];Avón;Bank-D/E;19337
-2020-08-09 19:52:02;[Netherwind Bindings];Arlis;Bank-D/E;16918
-2020-08-09 19:55:12;[Nemesis Belt];Avón;Bank-D/E;16933
-2020-08-09 19:55:23;[Rune of Metamorphosis];Lomeluin;Bank-D/E;19340
-2020-08-09 19:55:40;[Judgement Belt];Arlis;Bank-D/E;16952
-2020-08-09 20:07:34;[Head of the Broodlord Lashlayer];Chokeon;Bank-D/E;20383
-2020-08-09 20:07:58;[Dragonstalker's Greaves];Arlis;Bank-D/E;16941
-2020-08-09 20:08:16;[Black Brood Pauldrons];Arlis;Bank-D/E;19373
+2020-08-09 20:07:34;[Head of the Broodlord Lashlayer];Chokeon;Offspec GP;20383
 2020-08-09 20:08:38;[Judgement Sabatons];Lorathos;Offspec GP;16957
 2020-08-09 20:11:57;[Band of Dark Dominion];Riese;Offspec GP;19434
-2020-08-09 20:16:05;[Drake Talon Cleaver];Arlis;Bank-D/E;19353
 2020-08-09 20:16:57;[Firemaw's Clutch];Bombalgir;Mainspec GP;19400
-2020-08-09 20:27:07;[Draconic Avenger];Arlis;Bank-D/E;19354
 2020-08-09 20:29:12;[Netherwind Gloves];Aionara;Mainspec GP;16913
-2020-08-09 20:29:20;[Malfurion's Blessed Bulwark];Arlis;Bank-D/E;19405
-2020-08-09 20:30:36;[Judgement Gauntlets];Arlis;Bank-D/E;16956
-2020-08-09 20:30:51;[Herald of Woe];Arlis;Bank-D/E;19357
 2020-08-09 20:39:20;[Netherwind Mantle];Aionara;Mainspec GP;16917
 2020-08-09 20:40:03;[Claw of Chromaggus];Xzoe;Mainspec GP;19347
 2020-08-09 20:40:31;[Nemesis Spaulders];Harcort;Mainspec GP;16932
-2020-08-09 20:40:42;[Taut Dragonhide Shoulderpads];Arlis;Bank-D/E;19389
 2020-08-09 20:50:23;[Lok'amir il Romathis];Lorathos;Mainspec GP;19360
 2020-08-09 20:50:56;[Staff of the Shadow Flame];Wysiwyg;Mainspec GP;19356
 2020-08-09 20:51:15;[Robes of Transcendence];Bombalgir;Mainspec GP;16923
-2020-08-09 20:51:23;[Bloodfang Chestpiece];Arlis;Bank-D/E;16905
 2020-08-09 20:51:50;[Head of Nefarian];Tamu;Mainspec GP;19002
 2020-08-16 19:44:36;[Bracelets of Wrath];Pitscher;Offspec GP;16959
-2020-08-16 19:44:40;[Gloves of Rapid Evolution];Arlis;Bank-D/E;19369
-2020-08-16 19:44:46;[Bindings of Transcendence];Arlis;Bank-D/E;16926
-2020-08-16 19:47:38;[Belt of Transcendence];Arlis;Bank-D/E;16925
 2020-08-16 19:47:58;[Red Dragonscale Protector];Antaresfm;Offspec GP;19348
-2020-08-16 19:48:14;[Dragonstalker's Belt];Arlis;Bank-D/E;16936
-2020-08-16 20:03:10;[Boots of Transcendence];Arlis;Bank-D/E;16919
-2020-08-16 20:03:16;[Black Brood Pauldrons];Arlis;Bank-D/E;19373
-2020-08-16 20:03:21;[Boots of Transcendence];Arlis;Bank-D/E;16919
-2020-08-16 20:12:12;[Nemesis Gloves];Arlis;Bank-D/E;16928
 2020-08-16 20:12:35;[Firemaw's Clutch];Lomeluin;Offspec GP;19400
 2020-08-16 20:25:39;[Drake Fang Talisman];Arlis;Mainspec GP;19406
 2020-08-16 20:26:10;[Handguards of Transcendence];Faine;Offspec GP;16920
-2020-08-16 20:28:17;[Bloodfang Gloves];Arlis;Bank-D/E;16907
 2020-08-16 20:28:38;[Emberweave Leggings];Crayven;Offspec GP;19433
-2020-08-16 20:33:01;[Stormrage Pauldrons];Arlis;Bank-D/E;16902
 2020-08-16 20:33:09;[Girdle of the Fallen Crusader];Nadila;Offspec GP;19392
 2020-08-16 20:33:34;[Pauldrons of Wrath];Pitscher;Offspec GP;16961
 2020-08-16 20:33:57;[Empowered Leggings];Tsubaky;Mainspec GP;19385
@@ -243,9 +150,8 @@ Time;Item;Looter;GP Action;ID
 2020-08-23 20:23:56;[Gloves of Enforcement];Nessy;Mainspec GP;21672
 2020-08-23 20:24:23;[Thick Qirajihide Belt];Arlis;Offspec GP;21675
 2020-08-23 20:37:55;[Robes of the Guardian Saint];Highwalker;Mainspec GP;21663
-2020-08-23 20:38:40;[Fetish of the Sand Reaver];Arlis;Bank-D/E;21647
 2020-08-23 22:29:26;[Vek'lor's Diadem];Nessy;Mainspec GP;20930
-2020-08-23 22:30:08;[Royal Qiraji Belt];Naiko;Bank-D/E;21598
+2020-08-23 22:30:08;[Royal Qiraji Belt];Naiko;Offspec GP;21598
 2020-08-23 22:30:47;[Vek'nilash's Circlet];Sorci;Mainspec GP;20926
 2020-08-23 22:31:29;[Amulet of Vek'nilash];Riese;Mainspec GP;21608
 2020-08-23 22:32:31;[Imperial Qiraji Regalia];Arlis;Mainspec GP;21237
@@ -254,22 +160,17 @@ Time;Item;Looter;GP Action;ID
 2020-08-23 22:50:59;[Qiraji Bindings of Command];Naiko;Mainspec GP;20928
 2020-08-23 23:13:24;[Ooze-ridden Gauntlets];Nadila;Offspec GP;21691
 2020-08-23 23:14:00;[Cape of the Trinity];Mastarc;Mainspec GP;21697
-2020-08-27 20:16:47;[Dragonstalker's Bracers];Arlis;Bank-D/E;16935
 2020-08-27 20:17:07;[Bracelets of Wrath];Tamu;Offspec GP;16959
 2020-08-27 20:17:43;[The Untamed Blade];Tasêrfacê;Offspec GP;19334
 2020-08-27 20:21:51;[Stormrage Belt];Druidicas;Offspec GP;16903
 2020-08-27 20:22:28;[Helm of Endless Rage];Pitscher;Mainspec GP;19372
-2020-08-27 20:22:49;[Nemesis Belt];Arlis;Bank-D/E;16933
-2020-08-27 20:39:26;[Head of the Broodlord Lashlayer];Wysiwyg;Bank-D/E;20383
-2020-08-27 20:39:52;[Nemesis Boots];Arlis;Bank-D/E;16927
-2020-08-27 20:40:17;[Dragonstalker's Greaves];Arlis;Bank-D/E;16941
+2020-08-27 20:39:26;[Head of the Broodlord Lashlayer];Wysiwyg;Offspec GP;20383
 2020-08-27 20:41:18;[Lifegiving Gem];Nadila;Mainspec GP;19341
 2020-08-27 20:50:10;[Drake Talon Pauldrons];Tasêrfacê;Mainspec GP;19394
 2020-08-27 20:50:37;[Firemaw's Clutch];Aionara;Mainspec GP;19400
 2020-08-27 21:06:59;[Rejuvenating Gem];Radogan;Mainspec GP;19395
 2020-08-27 21:07:40;[Dragonbreath Hand Cannon];Naiko;Offspec GP;19368
-2020-08-27 21:09:58;[Ring of Blackrock];Druidicas;Bank-D/E;19397
-2020-08-27 21:12:29;[Interlaced Shadow Jerkin];Arlis;Bank-D/E;19439
+2020-08-27 21:09:58;[Ring of Blackrock];Druidicas;Offspec GP;19397
 2020-08-27 21:17:41;[Chromatic Boots];Nadila;Mainspec GP;19387
 2020-08-27 21:18:58;[Pauldrons of Wrath];Tamu;Offspec GP;16961
 2020-08-27 21:19:13;[Bloodfang Spaulders];Gnomling;Offspec GP;16832
@@ -277,10 +178,7 @@ Time;Item;Looter;GP Action;ID
 2020-08-27 21:28:11;[Crul'shorukh, Edge of Chaos];Tasêrfacê;Mainspec GP;19363
 2020-08-27 21:29:05;[Staff of the Shadow Flame];Harcort;Mainspec GP;19356
 2020-08-27 21:29:21;[Nemesis Robes];Harcort;Offspec GP;16931
-2020-08-27 21:29:26;[Nemesis Robes];Arlis;Bank-D/E;16931
-2020-08-27 21:30:49;[Head of Nefarian];Druidicas;Bank-D/E;19002
-2020-08-27 21:50:59;[Nightslayer Cover];Arlis;Bank-D/E;16821
-2020-08-27 21:51:14;[Lawbringer Helm];Arlis;Bank-D/E;16854
+2020-08-27 21:30:49;[Head of Nefarian];Druidicas;Offspec GP;19002
 2020-08-30 19:41:44;[Boots of the Unwavering Will];Tasêrfacê;Offspec GP;21706
 2020-08-30 19:42:11;[Amulet of Foul Warding];Pitscher;Offspec GP;21702
 2020-08-30 19:57:45;[Legplates of Blazing Light];Trezôr;Offspec GP;21667
@@ -308,26 +206,18 @@ Time;Item;Looter;GP Action;ID
 2020-08-30 22:43:11;[Boots of the Fallen Hero];Tamu;Mainspec GP;21688
 2020-09-03 20:21:41;[Netherwind Belt];Mastarc;Mainspec GP;16818
 2020-09-03 20:22:01;[Helm of Endless Rage];Nadila;Offspec GP;19372
-2020-09-03 20:22:14;[Stormrage Belt];Maro;Bank-D/E;16903
-2020-09-03 20:24:37;[Draconic Maul];Maro;Bank-D/E;19358
 2020-09-03 20:33:07;[Bracers of Arcane Accuracy];Mastarc;Mainspec GP;19374
 2020-09-03 20:33:40;[Sabatons of Wrath];Nadila;Offspec GP;16965
 2020-09-03 20:34:10;[Netherwind Boots];Mastarc;Mainspec GP;16912
-2020-09-03 20:42:40;[Judgement Gauntlets];Maro;Bank-D/E;16956
 2020-09-03 20:43:50;[Essence Gatherer];Faine;Offspec GP;19435
-2020-09-03 20:54:15;[Draconic Avenger];Maro;Bank-D/E;19354
 2020-09-03 20:57:16;[Ring of Blackrock];Aionara;Mainspec GP;19397
 2020-09-03 20:57:33;[Malfurion's Blessed Bulwark];Nadila;Offspec GP;19405
-2020-09-03 20:59:30;[Handguards of Transcendence];Maro;Bank-D/E;16920
 2020-09-03 21:00:11;[Dragon's Touch];Tsubaky;Mainspec GP;19367
 2020-09-03 21:06:31;[Chromatic Boots];Pitscher;Mainspec GP;19387
 2020-09-03 21:06:52;[Bloodfang Spaulders];Sorciyo;Offspec GP;16832
 2020-09-03 21:07:13;[Netherwind Mantle];Schmutzigé;Mainspec GP;16917
-2020-09-03 21:07:27;[Taut Dragonhide Gloves];Maro;Bank-D/E;19390
 2020-09-03 21:15:52;[Cloak of the Brood Lord];Xzoe;Mainspec GP;19378
 2020-09-03 21:16:27;[Head of Nefarian];Harcort;Offspec GP;19002
-2020-09-03 21:16:47;[Nemesis Robes];Avón;Bank-D/E;16931
-2020-09-03 21:16:53;[Stormrage Chestguard];Maro;Bank-D/E;16897
 2020-09-06 19:41:49;[Breastplate of Annihilation];Nithalf;Mainspec GP;21814
 2020-09-06 19:42:20;[Pendant of the Qiraji Guardian];Nadila;Offspec GP;21700
 2020-09-06 19:53:48;[Sartura's Might];Highwalker;Mainspec GP;21666
@@ -351,47 +241,33 @@ Time;Item;Looter;GP Action;ID
 2020-09-06 21:31:44;[Ouro's Intact Hide];Naiko;Mainspec GP;20927
 2020-09-06 21:32:01;[Skin of the Great Sandworm];Arlis;Mainspec GP;20931
 2020-09-06 21:32:30;[The Burrower's Shell];Maddi;Offspec GP;23558
-2020-09-06 22:47:33;[Slime-coated Leggings];Tasêrfacê;Bank-D/E;21626
+2020-09-06 22:47:33;[Slime-coated Leggings];Tasêrfacê;Offspec GP;21626
 2020-09-06 22:48:05;[Qiraji Bindings of Dominance];Wysiwyg;Mainspec GP;20932
 2020-09-06 22:48:33;[Qiraji Bindings of Command];Crayven;Mainspec GP;20928
 2020-09-06 23:04:52;[Boots of the Fallen Hero];Maro;Offspec GP;21688
 2020-09-06 23:05:31;[Angelista's Touch];Naiko;Offspec GP;21695
 2020-09-10 20:16:59;[Belt of Transcendence];Faine;Offspec GP;16925
-2020-09-10 20:17:12;[Rune of Metamorphosis];Maro;Bank-D/E;19340
-2020-09-10 20:17:27;[Stormrage Belt];Arlis;Bank-D/E;16903
 2020-09-10 20:21:30;[Cloak of Draconic Might];Tasêrfacê;Mainspec GP;19436
 2020-09-10 20:33:38;[Head of the Broodlord Lashlayer];Maddi;Offspec GP;20383
-2020-09-10 20:33:57;[Judgement Sabatons];Arlis;Bank-D/E;16957
 2020-09-10 20:34:28;[Venomous Totem];Sorciyo;Offspec GP;19342
 2020-09-10 20:35:33;[Sabatons of Wrath];Tasêrfacê;Offspec GP;16965
 2020-09-10 20:43:40;[Scrolls of Blinding Light];Reax;Offspec GP;19343
 2020-09-10 20:44:17;[Gauntlets of Wrath];Nadila;Offspec GP;16964
-2020-09-10 20:45:59;[Interlaced Shadow Jerkin];Arlis;Bank-D/E;19439
 2020-09-10 20:57:38;[Ringo's Blizzard Boots];Schmutzigé;Offspec GP;19438
 2020-09-10 21:00:30;[Bloodfang Gloves];Sorciyo;Offspec GP;16907
 2020-09-10 21:00:58;[Dragonbreath Hand Cannon];Nadila;Offspec GP;19368
 2020-09-10 21:03:07;[Drake Talon Pauldrons];Pitscher;Mainspec GP;19394
 2020-09-10 21:03:29;[Shroud of Pure Thought];Druidicas;Mainspec GP;19430
-2020-09-10 21:10:30;[Bloodfang Spaulders];Farlor;Bank-D/E;16832
 2020-09-10 21:10:44;[Judgement Spaulders];Antaresfm;Offspec GP;16953
 2020-09-10 21:11:12;[Claw of Chromaggus];Druidicas;Mainspec GP;19347
 2020-09-10 21:11:39;[Angelista's Grasp];Bombalgir;Offspec GP;19388
 2020-09-10 21:19:57;[Breastplate of Wrath];Tamu;Offspec GP;16966
 2020-09-10 21:20:09;[Judgement Breastplate];Arlis;Offspec GP;16958
 2020-09-10 21:20:42;[Crul'shorukh, Edge of Chaos];Pitscher;Mainspec GP;19363
-2020-09-10 21:21:03;[Boots of the Shadow Flame];Farlor;Bank-D/E;19381
 2020-09-10 21:21:40;[Head of Nefarian];Mastarc;Offspec GP;19002
-2020-09-10 21:39:59;[Cenarion Boots];Arlis;Bank-D/E;16829
-2020-09-10 21:40:04;[Gauntlets of Might];Arlis;Bank-D/E;16863
-2020-09-10 21:44:47;[Lawbringer Legplates];Arlis;Bank-D/E;16855
-2020-09-10 21:45:02;[Eskhandar's Right Claw];Arlis;Bank-D/E;18203
-2020-09-10 21:53:51;[Lawbringer Gauntlets];Arlis;Bank-D/E;16860
-2020-09-10 22:01:05;[Giantstalker's Helmet];Arlis;Bank-D/E;16846
-2020-09-10 22:22:13;[Pauldrons of Might];Arlis;Bank-D/E;16868
 2020-09-13 19:44:28;[Breastplate of Annihilation];Zann;Mainspec GP;21814
-2020-09-13 19:44:42;[Barrage Shoulders];Maro;Bank-D/E;21699
 2020-09-13 19:57:59;[Gloves of Enforcement];Nóva;Mainspec GP;21672
-2020-09-13 19:58:45;[Recomposed Boots];Crayven;Bank-D/E;21648
+2020-09-13 19:58:45;[Recomposed Boots];Crayven;Offspec GP;21648
 2020-09-13 20:04:56;[Libram of Grace];Maro;Mainspec GP;22402
 2020-09-13 20:05:36;[Scaled Sand Reaver Leggings];Pitscher;Mainspec GP;21651
 2020-09-13 20:15:00;[Gloves of the Messiah];Tsubaky;Mainspec GP;21619
@@ -415,34 +291,23 @@ Time;Item;Looter;GP Action;ID
 2020-09-13 22:14:28;[Qiraji Bindings of Dominance];Aionara;Mainspec GP;20932
 2020-09-13 22:14:52;[Qiraji Bindings of Command];Nithalf;Mainspec GP;20928
 2020-09-13 22:34:53;[Ooze-ridden Gauntlets];Nithalf;Offspec GP;21691
-2020-09-17 20:14:07;[Nemesis Bracers];Arlis;Bank-D/E;16934
 2020-09-17 20:14:30;[Mantle of the Blackwing Cabal];Maddi;Mainspec GP;19370
-2020-09-17 20:14:43;[Dragonstalker's Bracers];Greater;Bank-D/E;16935
-2020-09-17 20:18:00;[Stormrage Belt];Arlis;Bank-D/E;16903
-2020-09-17 20:18:14;[Dragonstalker's Belt];Greater;Bank-D/E;16936
-2020-09-17 20:18:25;[Rune of Metamorphosis];Maro;Bank-D/E;19340
 2020-09-17 20:22:07;[Boots of Pure Thought];Bombalgir;Mainspec GP;19437
 2020-09-17 20:37:18;[Bloodfang Boots];Sorciyo;Offspec GP;16906
 2020-09-17 20:37:42;[Netherwind Boots];Schmutzigé;Offspec GP;16912
 2020-09-17 20:38:38;[Heartstriker];Tamu;Offspec GP;19350
 2020-09-17 20:46:47;[Cloak of Firemaw];Sorciyo;Mainspec GP;19398
-2020-09-17 21:00:44;[Taut Dragonhide Belt];Druidicas;Bank-D/E;19396
+2020-09-17 21:00:44;[Taut Dragonhide Belt];Druidicas;Offspec GP;19396
 2020-09-17 21:01:05;[Malfurion's Blessed Bulwark];Druidicas;Offspec GP;19405
 2020-09-17 21:03:00;[Ring of Blackrock];Arlis;Offspec GP;19397
 2020-09-17 21:04:16;[Shroud of Pure Thought];Arlis;Offspec GP;19430
-2020-09-17 21:09:12;[Judgement Spaulders];Arlis;Bank-D/E;16953
 2020-09-17 21:09:38;[Angelista's Grasp];Xzoe;Offspec GP;19388
-2020-09-17 21:09:47;[Taut Dragonhide Gloves];Arlis;Bank-D/E;19390
 2020-09-17 21:10:04;[Stormrage Pauldrons];Druidicas;Mainspec GP;16902
-2020-09-17 21:16:52;[Judgement Breastplate];Arlis;Bank-D/E;16958
-2020-09-17 21:17:02;[Stormrage Chestguard];Arlis;Bank-D/E;16897
 2020-09-17 21:17:20;[Prestor's Talisman of Connivery];Gnomling;Mainspec GP;19377
 2020-09-17 21:17:56;[Ashkandi, Greatsword of the Brotherhood];Tamu;Mainspec GP;19364
 2020-09-20 19:41:06;[Staff of the Qiraji Prophets];Lomeluin;Offspec GP;21128
 2020-09-20 19:41:47;[Boots of the Redeemed Prophecy];Reax;Offspec GP;21704
-2020-09-20 19:53:39;[Creeping Vine Helm];Maro;Bank-D/E;21669
 2020-09-20 19:54:13;[Necklace of Purity];Nadila;Offspec GP;21678
-2020-09-20 19:59:33;[Scaled Sand Reaver Leggings];Maro;Bank-D/E;21651
 2020-09-20 20:00:07;[Fetish of the Sand Reaver];Wysiwyg;Mainspec GP;21647
 2020-09-20 20:11:25;[Ring of the Martyr];Tsubaky;Mainspec GP;21620
 2020-09-20 20:11:55;[Qiraji Bindings of Dominance];Harcort;Mainspec GP;20932
@@ -464,27 +329,19 @@ Time;Item;Looter;GP Action;ID
 2020-09-20 21:51:40;[Qiraji Bindings of Command];Chokeon;Mainspec GP;20928
 2020-09-20 22:21:43;[Angelista's Charm];Bombalgir;Offspec GP;21690
 2020-09-20 22:22:15;[Triad Girdle];Fein;Offspec GP;21692
-2020-09-24 20:23:38;[Rune of Metamorphosis];Fenoa;Bank-D/E;19340
 2020-09-24 20:24:15;[Waistband of Wrath];Nadila;Offspec GP;16960
-2020-09-24 20:24:19;[Dragonstalker's Belt];Arlis;Bank-D/E;16936
-2020-09-24 20:38:46;[Stormrage Boots];Fenoa;Bank-D/E;16898
 2020-09-24 20:39:11;[Sabatons of Wrath];Tamu;Offspec GP;16965
-2020-09-24 20:39:19;[Venomous Totem];Arlis;Bank-D/E;19342
 2020-09-24 20:49:10;[Shadow Wing Focus Staff];Arlis;Offspec GP;19355
 2020-09-24 20:49:35;[Black Ash Robe];Riese;Offspec GP;19399
-2020-09-24 21:01:29;[Draconic Avenger];Arlis;Bank-D/E;19354
-2020-09-24 21:03:54;[Stormrage Handguards];Arlis;Bank-D/E;16899
 2020-09-24 21:04:10;[Dragonbreath Hand Cannon];Crayven;Offspec GP;19368
 2020-09-24 21:06:04;[Rejuvenating Gem];Highwalker;Mainspec GP;19395
 2020-09-24 21:12:28;[Empowered Leggings];Radogan;Mainspec GP;19385
 2020-09-24 21:12:47;[Pauldrons of Wrath];Nadila;Offspec GP;16961
-2020-09-24 21:13:10;[Elementium Threaded Cloak];Arlis;Bank-D/E;19386
 2020-09-24 21:22:25;[Netherwind Robes];Xzoe;Offspec GP;16916
 2020-09-24 21:22:29;[Netherwind Robes];Mastarc;Offspec GP;16916
 2020-09-24 21:23:02;[Prestor's Talisman of Connivery];Arlis;Offspec GP;19377
 2020-09-24 21:23:41;[Head of Nefarian];Reax;Offspec GP;19002
 2020-09-24 21:24:31;[Staff of the Shadow Flame];Schmutzigé;Mainspec GP;19356
-2020-09-27 19:43:48;[Barrage Shoulders];Maro;Bank-D/E;21699
 2020-09-27 19:44:11;[Boots of the Unwavering Will];Tamu;Offspec GP;21706
 2020-09-27 19:57:15;[Gauntlets of Steadfast Determination];Tasêrfacê;Offspec GP;21674
 2020-09-27 19:57:42;[Badge of the Swarmguard];Nadila;Mainspec GP;21670
@@ -512,108 +369,80 @@ Time;Item;Looter;GP Action;ID
 2020-09-27 21:48:08;[Petrified Scarab];Naiko;Mainspec GP;21685
 2020-09-27 21:48:34;[Cape of the Trinity];Schmutzigé;Mainspec GP;21697
 2020-10-01 20:08:57;[Mantle of the Blackwing Cabal];Tuv;Mainspec GP;19370
-2020-10-01 20:09:27;[Bindings of Transcendence];Arlis;Bank-D/E;16926
-2020-10-01 20:14:15;[Dragonstalker's Belt];Arlis;Bank-D/E;16936
-2020-10-01 20:14:22;[Dragonstalker's Belt];Arlis;Bank-D/E;16936
-2020-10-01 20:14:41;[Helm of Endless Rage];Arlis;Bank-D/E;19372
 2020-10-01 20:16:40;[Cloak of Draconic Might];Tamu;Mainspec GP;19436
-2020-10-01 20:29:03;[Boots of Transcendence];Arlis;Bank-D/E;16919
-2020-10-01 20:29:16;[Nemesis Boots];Arlis;Bank-D/E;16927
 2020-10-01 20:30:01;[Bracers of Arcane Accuracy];Ricárda;Mainspec GP;19374
-2020-10-01 20:31:58;[Head of the Broodlord Lashlayer];Druidicas;Bank-D/E;20383
+2020-10-01 20:31:58;[Head of the Broodlord Lashlayer];Druidicas;Offspec GP;20383
 2020-10-01 20:33:51;[Essence Gatherer];Tuv;Offspec GP;19435
 2020-10-01 20:39:41;[Rejuvenating Gem];Bombalgir;Mainspec GP;19395
 2020-10-01 20:39:59;[Scrolls of Blinding Light];Antaresfm;Offspec GP;19343
 2020-10-01 20:53:23;[Nemesis Gloves];Ricárda;Mainspec GP;16928
-2020-10-01 20:53:39;[Malfurion's Blessed Bulwark];Arlis;Bank-D/E;19405
-2020-10-01 20:56:16;[Emberweave Leggings];Arlis;Bank-D/E;19433
 2020-10-01 20:56:22;[Drake Talon Cleaver];Flitzie;Offspec GP;19353
 2020-10-01 21:01:55;[Netherwind Mantle];Mastarc;Offspec GP;16917
-2020-10-01 21:02:06;[Girdle of the Fallen Crusader];Arlis;Bank-D/E;19392
-2020-10-01 21:02:24;[Stormrage Pauldrons];Arlis;Bank-D/E;16902
 2020-10-01 21:02:38;[Taut Dragonhide Shoulderpads];Druidicas;Offspec GP;19389
 2020-10-01 21:10:54;[Breastplate of Wrath];Pitscher;Offspec GP;16966
 2020-10-01 21:11:30;[Mish'undare, Circlet of the Mind Flayer];Exts;Mainspec GP;19375
 2020-10-01 21:11:54;[Neltharion's Tear];Harcort;Mainspec GP;19379
 2020-10-01 21:12:28;[Head of Nefarian];Ricárda;Mainspec GP;19002
-2020-10-04 19:50:33;[Pendant of the Qiraji Guardian];Crayven;Bank-D/E;21700
-2020-10-04 19:50:50;[Pendant of the Qiraji Guardian];Crayven;Bank-D/E;21700
-2020-10-04 19:51:22;[Boots of the Redeemed Prophecy];Maro;Bank-D/E;21704
+2020-10-04 19:50:33;[Pendant of the Qiraji Guardian];Crayven;Offspec GP;21700
 2020-10-04 20:02:35;[Badge of the Swarmguard];Choult;Mainspec GP;21670
-2020-10-04 20:03:20;[Thick Qirajihide Belt];Arlis;Bank-D/E;21675
-2020-10-04 20:07:55;[Barb of the Sand Reaver];Rhyper;Bank-D/E;21635
+2020-10-04 20:07:55;[Barb of the Sand Reaver];Rhyper;Offspec GP;21635
 2020-10-04 20:20:41;[Qiraji Bindings of Dominance];Exts;Mainspec GP;20932
 2020-10-04 20:21:21;[Qiraji Bindings of Command];Nessy;Mainspec GP;20928
 2020-10-04 20:41:42;[Vek'lor's Diadem];Nóva;Mainspec GP;20930
-2020-10-04 20:42:29;[Vek'lor's Gloves of Devastation];Arlis;Bank-D/E;21599
 2020-10-04 20:43:56;[Vek'nilash's Circlet];Harcort;Mainspec GP;20926
-2020-10-04 20:46:17;[Kalimdor's Revenge];Crayven;Bank-D/E;21679
+2020-10-04 20:46:17;[Kalimdor's Revenge];Crayven;Offspec GP;21679
 2020-10-04 20:47:05;[Imperial Qiraji Regalia];Tasêrfacê;Mainspec GP;21237
 2020-10-04 21:24:43;[Carapace of the Old God];Sorciyo;Mainspec GP;20929
-2020-10-04 21:25:31;[Husk of the Old God];Harcort;Bank-D/E;20933
+2020-10-04 21:25:31;[Husk of the Old God];Harcort;Offspec GP;20933
 2020-10-04 21:25:59;[Eye of C'Thun];Mastarc;Mainspec GP;21221
 2020-10-04 21:26:37;[Eyestalk Waist Cord];Riese;Mainspec GP;22730
 2020-10-04 21:27:09;[Grasp of the Old God];Tsubaky;Mainspec GP;21582
 2020-10-04 21:35:00;[Ouro's Intact Hide];Taradus;Mainspec GP;20927
-2020-10-04 21:37:19;[Skin of the Great Sandworm];Ricárda;Bank-D/E;20931
+2020-10-04 21:37:19;[Skin of the Great Sandworm];Ricárda;Offspec GP;20931
 2020-10-04 21:38:12;[Jom Gabbar];Rhyme;Mainspec GP;23570
 2020-10-04 21:47:27;[Qiraji Bindings of Command];Taradus;Mainspec GP;20928
 2020-10-04 21:48:10;[Qiraji Bindings of Dominance];Maddi;Mainspec GP;20932
 2020-10-04 21:48:41;[Idol of Health];Highwalker;Mainspec GP;22399
 2020-10-04 21:49:34;[Imperial Qiraji Regalia];Harcort;Mainspec GP;21237
 2020-10-04 22:03:54;[Ternary Mantle];Radogan;Mainspec GP;21694
-2020-10-04 22:04:19;[Vest of Swift Execution];Arlis;Bank-D/E;21680
+2020-10-04 22:04:19;[Vest of Swift Execution];Arlis;Offspec GP;21680
 2020-10-04 22:05:01;[Imperial Qiraji Armaments];Tasêrfacê;Mainspec GP;21232
-2020-10-08 20:29:10;[Roben der Schlachtwache];Ricárda;Mainspec GP;21671
-2020-10-08 20:29:56;[Gamaschen des faulenden Schwarms];Belesh;Offspec GP;21676
-2020-10-08 20:34:15;[Roben des Schutzheiligen];Radogan;Mainspec GP;21663
-2020-10-08 20:34:46;[Stiefel des Schwarmbaugräbers];Druidicas;Offspec GP;21645
-2020-10-08 21:01:10;[Vek'lors Diadem];Maro;Offspec GP;20930
-2020-10-08 21:01:16;[Vek'lors Handschuhe der Verwüstung];Arlis;Bank-D/E;21599
-2020-10-08 21:01:53;[Amulett von Vek'nilash];Lomeluin;Mainspec GP;21608
-2020-10-08 21:02:42;[Vek'nilashs Reif];Ricárda;Mainspec GP;20926
-2020-10-08 21:03:08;[Imperiale Qirajiwaffe];Nithalf;Mainspec GP;21232
-2020-10-08 21:12:28;[Splitter des gefallenen Sterns];Bombalgir;Offspec GP;21891
-2020-10-08 21:39:55;[Stulpen der Vernichtung];Nadila;Mainspec GP;21581
-2020-10-08 21:41:27;[Gürtel der endlosen Pein];Sorciyo;Mainspec GP;21586
-2020-10-08 21:42:30;[Auge von C'Thun];Fein;Mainspec GP;21221
-2020-10-08 21:42:49;[Hülle des alten Gottes];Druidicas;Mainspec GP;20933
-2020-10-08 21:43:14;[Knochenpanzer des alten Gottes];Choult;Mainspec GP;20929
-2020-10-08 21:49:35;[Don Rigobertos verlorener Hut];Bombalgir;Mainspec GP;21615
-2020-10-08 21:49:59;[Haut des großen Sandwurms];Choult;Offspec GP;20931
-2020-10-08 21:50:21;[Ouros intakte Haut];Nessy;Mainspec GP;20927
-2020-10-08 22:06:43;[Befehlsbindungen der Qiraji];Nóva;Mainspec GP;20928
-2020-10-08 22:07:05;[Dominanzbindungen der Qiraji];Druidicas;Mainspec GP;20932
-2020-10-08 22:07:57;[Schleimbeschichtete Gamaschen];Wysiwyg;Offspec GP;21626
-2020-10-08 22:20:13;[Zauberstab des Qirajiadels];Lomeluin;Mainspec GP;21603
-2020-10-08 22:21:26;[Roben des Dreigestirns];Bombalgir;Offspec GP;21696
-2020-10-15 20:35:52;[Stiefel des Netherwinds];Ardbog;Bank-D/E;16912
-2020-10-15 20:36:09;[Blutfangstiefel];Arlis;Bank-D/E;16906
-2020-10-15 20:36:27;[Gifttotem];Arlis;Bank-D/E;19342
-2020-10-15 20:36:53;[Kopf des Brutwächters Dreschbringer];Sorciyo;Bank-D/E;20383
-2020-10-15 20:46:20;[Rollen des Blendenden Lichts];Arlis;Bank-D/E;19343
-2020-10-15 20:46:25;[Gehärteter Drachenledergürtel];Arlis;Bank-D/E;19396
-2020-10-15 21:02:07;[Handschuhe des Netherwinds];Exts;Offspec GP;16913
-2020-10-15 21:02:37;[Drachenfangzahn-Talisman];Naiko;Mainspec GP;19406
-2020-10-15 21:04:39;[Handschützer der Erhabenheit];Fipsoliene;Mainspec GP;16920
-2020-10-15 21:05:00;[Berührung des Drachen];Ricárda;Mainspec GP;19367
-2020-10-15 21:07:29;[Geflochtener Schattenwams];Morti;Offspec GP;19439
-2020-10-15 21:07:40;[Drachischer Rächer];Arlis;Bank-D/E;19354
-2020-10-15 21:13:16;[Schiftung der Nemesis];Ricárda;Mainspec GP;16932
-2020-10-15 21:13:31;[Gehärtete Drachenlederschulterpolster];Druidicas;Offspec GP;19389
-2020-10-15 21:13:46;[Schulterstücke des Zorns];Arlis;Bank-D/E;16961
-2020-10-15 21:13:59;[Schimmerndes Geta];Arlis;Bank-D/E;19391
-2020-10-15 21:43:14;[Roben der Erhabenheit];Arlis;Bank-D/E;16923
-2020-10-15 21:43:30;[Roben des Netherwinds];Arlis;Bank-D/E;16916
-2020-10-15 21:44:08;[Crul'shorukh, Schneide des Chaos];Taradus;Mainspec GP;19363
-2020-10-15 21:44:32;[Neltharions Träne];Xzoe;Mainspec GP;19379
-2020-10-15 21:44:55;[Kopf von Nefarian];Riese;Offspec GP;19002
-2020-10-18 19:40:09;[Pendant of the Qiraji Guardian];Arlis;Bank-D/E;21700
+2020-10-08 20:29:10;[Robes of the Battleguard];Ricárda;Mainspec GP;21671
+2020-10-08 20:29:56;[Leggings of the Festering Swarm];Belesh;Offspec GP;21676
+2020-10-08 20:34:15;[Robes of the Guardian Saint];Radogan;Mainspec GP;21663
+2020-10-08 20:34:46;[Hive Tunneler's Boots];Druidicas;Offspec GP;21645
+2020-10-08 21:01:10;[Vek'lor's Diadem];Maro;Offspec GP;20930
+2020-10-08 21:01:53;[Amulet of Vek'nilash];Lomeluin;Mainspec GP;21608
+2020-10-08 21:02:42;[Vek'nilash's Circlet];Ricárda;Mainspec GP;20926
+2020-10-08 21:03:08;[Imperial Qiraji Armaments];Nithalf;Mainspec GP;21232
+2020-10-08 21:12:28;[Shard of the Fallen Star];Bombalgir;Offspec GP;21891
+2020-10-08 21:39:55;[Gauntlets of Annihilation];Nadila;Mainspec GP;21581
+2020-10-08 21:41:27;[Belt of Never-ending Agony];Sorciyo;Mainspec GP;21586
+2020-10-08 21:42:30;[Eye of C'Thun];Fein;Mainspec GP;21221
+2020-10-08 21:42:49;[Husk of the Old God];Druidicas;Mainspec GP;20933
+2020-10-08 21:43:14;[Carapace of the Old God];Choult;Mainspec GP;20929
+2020-10-08 21:49:35;[Don Rigoberto's Lost Hat];Bombalgir;Mainspec GP;21615
+2020-10-08 21:49:59;[Skin of the Great Sandworm];Choult;Offspec GP;20931
+2020-10-08 21:50:21;[Ouro's Intact Hide];Nessy;Mainspec GP;20927
+2020-10-08 22:06:43;[Qiraji Bindings of Command];Nóva;Mainspec GP;20928
+2020-10-08 22:07:05;[Qiraji Bindings of Dominance];Druidicas;Mainspec GP;20932
+2020-10-08 22:20:13;[Wand of Qiraji Nobility];Lomeluin;Mainspec GP;21603
+2020-10-08 22:21:26;[Robes of the Triumvirate];Bombalgir;Offspec GP;21696
+2020-10-15 21:02:07;[Netherwind Gloves];Exts;Offspec GP;16913
+2020-10-15 21:02:37;[Drake Fang Talisman];Naiko;Mainspec GP;19406
+2020-10-15 21:04:39;[Handguards of Transcendence];Fipsoliene;Mainspec GP;16920
+2020-10-15 21:05:00;[Dragon's Touch];Ricárda;Mainspec GP;19367
+2020-10-15 21:07:29;[Interlaced Shadow Jerkin];Morti;Offspec GP;19439
+2020-10-15 21:13:16;[Nemesis Spaulders];Ricárda;Mainspec GP;16932
+2020-10-15 21:13:31;[Taut Dragonhide Shoulderpads];Druidicas;Offspec GP;19389
+2020-10-15 21:44:08;[Crul'shorukh, Edge of Chaos];Taradus;Mainspec GP;19363
+2020-10-15 21:44:32;[Neltharion's Tear];Xzoe;Mainspec GP;19379
+2020-10-15 21:44:55;[Head of Nefarian];Riese;Offspec GP;19002
 2020-10-18 19:40:26;[Boots of the Unwavering Will];Naiko;Offspec GP;21706
 2020-10-18 19:52:43;[Wand of Qiraji Nobility];Mastarc;Mainspec GP;21603
 2020-10-18 19:53:03;[Guise of the Devourer];Arlis;Offspec GP;21693
 2020-10-18 19:58:27;[Imperial Qiraji Regalia];Nadila;Offspec GP;21237
-2020-10-18 19:58:51;[Recomposed Boots];Nessy;Bank-D/E;21648
+2020-10-18 19:58:51;[Recomposed Boots];Nessy;Offspec GP;21648
 2020-10-18 20:02:48;[Pauldrons of the Unrelenting];Naiko;Mainspec GP;21639
 2020-10-18 20:03:08;[Robes of the Guardian Saint];Reax;Mainspec GP;21663
 2020-10-18 20:15:28;[Imperial Qiraji Regalia];Arlis;Offspec GP;21237
@@ -636,26 +465,11 @@ Time;Item;Looter;GP Action;ID
 2020-10-18 21:18:39;[Imperial Qiraji Armaments];Sorciyo;Mainspec GP;21232
 2020-10-18 21:19:00;[Skin of the Great Sandworm];Druidicas;Mainspec GP;20931
 2020-10-18 21:19:21;[Ouro's Intact Hide];Nóva;Mainspec GP;20927
-2020-10-22 20:12:28;[Stormrage Bracers];Arlis;Bank-D/E;16904
-2020-10-22 20:12:41;[Bindings of Transcendence];Arlis;Bank-D/E;16926
 2020-10-22 20:31:23;[Belt of Transcendence];Fipsoliene;Mainspec GP;16925
-2020-10-22 20:31:50;[Rune of Metamorphosis];Rhyme;Bank-D/E;19340
-2020-10-22 20:31:58;[Judgement Belt];Arlis;Bank-D/E;16952
-2020-10-22 20:47:13;[Judgement Sabatons];Arlis;Bank-D/E;16957
-2020-10-22 20:47:25;[Dragonstalker's Greaves];Arlis;Bank-D/E;16941
-2020-10-22 20:47:44;[Heartstriker];Buelo;Bank-D/E;19350
-2020-10-22 20:58:12;[Stormrage Handguards];Arlis;Bank-D/E;16899
 2020-10-22 20:58:33;[Black Ash Robe];Xzoe;Offspec GP;19399
 2020-10-22 21:08:26;[Band of Dark Dominion];Ricárda;Mainspec GP;19434
-2020-10-22 21:13:57;[Judgement Gauntlets];Arlis;Bank-D/E;16956
 2020-10-22 21:14:22;[Band of Forced Concentration];Exts;Mainspec GP;19403
 2020-10-22 21:16:11;[Drake Talon Cleaver];Reax;Offspec GP;19353
-2020-10-22 21:39:42;[Bloodfang Spaulders];Arlis;Bank-D/E;16832
-2020-10-22 21:39:53;[Elementium Threaded Cloak];Arlis;Bank-D/E;19386
-2020-10-22 21:40:06;[Judgement Spaulders];Arlis;Bank-D/E;16953
-2020-10-22 21:40:20;[Taut Dragonhide Shoulderpads];Arlis;Bank-D/E;19389
-2020-10-22 21:48:57;[Robes of Transcendence];Arlis;Bank-D/E;16923
-2020-10-22 21:49:11;[Dragonstalker's Breastplate];Arlis;Bank-D/E;16942
 2020-10-22 21:49:45;[Archimtiros' Ring of Reckoning];Naiko;Mainspec GP;19376
 2020-10-22 21:50:10;[Pure Elementium Band];Arlis;Offspec GP;19382
 2020-10-25 20:50:00;[Ternary Mantle];Tsubaky;Mainspec GP;21694
@@ -709,7 +523,6 @@ Time;Item;Looter;GP Action;ID
 2020-11-08 20:58:54;[Silithid Claw];Morti;Mainspec GP;21673
 2020-11-08 20:58:22;[Badge of the Swarmguard];Rhyper;Mainspec GP;21670
 2020-11-08 20:59:37;[Pauldrons of the Unrelenting];Taradus;Offspec GP;21639
-2020-11-08 19:58:44;[Scaled Sand Reaver Leggings];Gnomling;Bank-D/E;21651
 2020-11-08 21:00:26;[Qiraji Bindings of Command];Siladra;Mainspec GP;20928
 2020-11-08 21:01:08;[Qiraji Bindings of Dominance];Maro;Offspec GP;20932
 2020-11-08 21:01:42;[Gauntlets of the Righteous Champion];Fein;Mainspec GP;21623
@@ -717,9 +530,7 @@ Time;Item;Looter;GP Action;ID
 2020-11-08 21:01:14;[Qiraji Bindings of Dominance];Reax;Offspec GP;20932
 2020-11-08 21:02:14;[Ring of the Martyr];Reax;Mainspec GP;21620
 2020-11-08 21:03:51;[Vek'nilash's Circlet];Pitscher;Offspec GP;20926
-2020-11-08 21:05:22;[Belt of the Fallen Emperor];Maro;Bank-D/E;21606
 2020-11-08 21:10:04;[Vek'lor's Diadem];Lariana;Offspec GP;20930
-2020-11-08 20:25:23;[Vek'lor's Gloves of Devastation];Gnomling;Bank-D/E;21599
 2020-11-08 21:03:20;[Larvae of the Great Worm];Nithalf;Mainspec GP;23557
 2020-11-08 21:10:12;[Skin of the Great Sandworm];Lariana;Offspec GP;20931
 2020-11-08 21:04:41;[Ouro's Intact Hide];Pitscher;Mainspec GP;20927
@@ -728,38 +539,19 @@ Time;Item;Looter;GP Action;ID
 2020-11-08 21:07:09;[Eye of C'Thun];Taradus;Mainspec GP;21221
 2020-11-08 21:07:28;[Husk of the Old God];Druidicas;Offspec GP;20933
 2020-11-08 21:07:45;[Carapace of the Old God];Pitscher;Mainspec GP;20929
-2020-11-08 21:30:34;[Bracelets of Wrath];Flitzie;Bank-D/E;16959
 2020-11-08 22:24:36;[The Untamed Blade];Reax;Offspec GP;19334
-2020-11-08 22:35:28;[Dragonstalker's Bracers];Arlis;Bank-D/E;16935
 2020-11-08 22:28:31;[Belt of Transcendence];Modem;Mainspec GP;16925
 2020-11-08 22:25:18;[Mind Quickening Gem];Aionara;Mainspec GP;19339
-2020-11-08 22:30:42;[Nemesis Belt];Jealousy;Bank-D/E;16933
-2020-11-08 22:29:20;[Stormrage Boots];Wof;Bank-D/E;16898
-2020-11-08 22:27:53;[Bracers of Arcane Accuracy];Nessey;Bank-D/E;19374
-2020-11-08 22:35:19;[Stormrage Boots];Arlis;Bank-D/E;16898
-2020-11-08 22:31:05;[Gauntlets of Wrath];Buelo;Bank-D/E;16964
 2020-11-08 22:31:22;[Scrolls of Blinding Light];Lariana;Mainspec GP;19343
-2020-11-08 22:08:17;[Taut Dragonhide Belt];Flitzie;Bank-D/E;19396
-2020-11-08 22:08:20;[Malfurion's Blessed Bulwark];Flitzie;Bank-D/E;19405
-2020-11-08 22:10:23;[Stormrage Handguards];Flitzie;Bank-D/E;16899
-2020-11-08 22:10:29;[Emberweave Leggings];Modem;Bank-D/E;19433
-2020-11-08 22:16:51;[Netherwind Mantle];Wof;Bank-D/E;16917
-2020-11-08 22:16:58;[Taut Dragonhide Gloves];Wof;Bank-D/E;19390
 2020-11-08 22:30:20;[Bloodfang Spaulders];Siladra;Offspec GP;16832
 2020-11-08 22:26:21;[Empowered Leggings];Wof;Mainspec GP;19385
-2020-11-08 22:32:16;[Stormrage Chestguard];Wof;Bank-D/E;16897
-2020-11-08 22:32:40;[Netherwind Robes];Arlis;Bank-D/E;16916
-2020-11-08 22:33:29;[Crul'shorukh, Edge of Chaos];Buelo;Bank-D/E;19363
 2020-11-08 22:33:59;[Therazane's Link];Fein;Mainspec GP;19380
 2020-11-08 22:34:17;[Head of Nefarian];Gurkenzauber;Offspec GP;19003
 2020-11-15 20:45:54;[Staff of the Qiraji Prophets];Gurkenzauber;Offspec GP;21128
 2020-11-15 20:32:08;[Boots of the Unwavering Will];Maro;Offspec GP;21706
 2020-11-15 20:33:00;[Triad Girdle];Tasêrfacê;Offspec GP;21692
-2020-11-15 20:48:56;[Angelista's Charm];Arlis;Bank-D/E;21690
-2020-11-15 19:50:17;[Creeping Vine Helm];Arlis;Bank-D/E;21669
 2020-11-15 20:33:54;[Leggings of the Festering Swarm];Gurkenzauber;Mainspec GP;21676
 2020-11-15 20:34:43;[Fetish of the Sand Reaver];Crayven;Offspec GP;21647
-2020-11-15 19:53:31;[Mantle of Wicked Revenge];Arlis;Bank-D/E;21665
 2020-11-15 20:50:38;[Idol of Health];Arlis;Offspec GP;22399
 2020-11-15 20:35:08;[Qiraji Bindings of Dominance];Exts;Offspec GP;20932
 2020-11-15 20:36:24;[Qiraji Bindings of Dominance];Maro;Offspec GP;20932
@@ -781,8 +573,6 @@ Time;Item;Looter;GP Action;ID
 2020-11-15 22:03:15;[Cloak of Firemaw];Siladra;Offspec GP;19398
 2020-11-15 22:05:07;[Shroud of Pure Thought];Lariana;Mainspec GP;19430
 2020-11-15 22:06:10;[Empowered Leggings];Lariana;Mainspec GP;19385
-2020-11-15 22:06:34;[Stormrage Chestguard];Arlis;Bank-D/E;16897
-2020-11-15 22:06:49;[Nemesis Robes];Arlis;Bank-D/E;16931
 2020-11-15 22:07:13;[Neltharion's Tear];Mastarc;Mainspec GP;19379
 2020-11-15 22:08:26;[Cloak of the Brood Lord];Bombalgir;Offspec GP;19378
 2020-11-22 20:43:59;[Staff of the Qiraji Prophets];Xzoe;Offspec GP;21128
@@ -811,7 +601,6 @@ Time;Item;Looter;GP Action;ID
 2020-11-22 22:17:57;[Rejuvenating Gem];Tsubaky;Mainspec GP;19395
 2020-11-22 22:18:48;[Shroud of Pure Thought];Wongsen;Offspec GP;19430
 2020-11-22 22:20:50;[Empowered Leggings];Reax;Mainspec GP;19385
-2020-11-22 22:21:16;[Nemesis Robes];Arlis;Bank-D/E;16931
 2020-11-22 22:21:39;[Bloodfang Chestpiece];Sorciyo;Offspec GP;16905
 2020-11-22 22:22:05;[Lok'amir il Romathis];Reax;Mainspec GP;19360
 2020-11-22 22:22:39;[Neltharion's Tear];Aionara;Mainspec GP;19379
