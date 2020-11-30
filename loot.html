@@ -55,7 +55,6 @@
     <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://wow.zamimg.com/widgets/power.js"></script>
     <script>
         const whTooltips = {
@@ -74,6 +73,19 @@
                     processData(data)
                 }
             })
+        });
+        $(document).ajaxStop(function() {
+            //setTimeout(function() {
+            $('#loot_history').DataTable({
+                "order": [
+                    [0, "desc"]
+                ],
+                "pageLength": 25,
+                //"fnDrawCallback": function(oSettings) {
+                //    $WowheadPower.refreshLinks()
+                //}
+            });
+            //}, 2000)
         });
 
         function processData(csv, commit_date) {
@@ -97,7 +109,7 @@
 
             var tableBody = table.createTBody();
             while (allTextLines.length) {
-                var arr = allTextLines.shift().split(';');
+                var arr = allTextLines.pop().split(';');
                 if (arr.length == 5) {
                     var row = tableBody.insertRow(-1);
                     date = arr[0]
@@ -105,7 +117,7 @@
                     looter = arr[2]
                     roll = arr[3]
                     itemID = arr[4]
-                    row.innerHTML = "<td>" + date + "</td><td><a href='#' data-wowhead='item=" + itemID + "&domain=classic'>" + item + "</a></td><td>" + looter + "</td><td>" + roll + "</td>";
+                    row.innerHTML = "<td>" + date + "</td><td><a href=https://classic.wowhead.com/item=" + itemID + " data-wowhead='item=" + itemID + "&domain=classic'>" + item + "</a></td><td>" + looter + "</td><td>" + roll + "</td>";
                 }
             }
 
@@ -121,19 +133,6 @@
             }
 
             $WowheadPower.refreshLinks()
-            setTimeout(function() {
-                $('#loot_history').DataTable({
-                    "order": [
-                        [0, "desc"]
-                    ],
-                    "pageLength": 25,
-                    //"fnDrawCallback": function(oSettings) {
-                    //    $WowheadPower.refreshLinks()
-                    //}
-                });
-            }, 1000)
-
-
 
         }
     </script>
