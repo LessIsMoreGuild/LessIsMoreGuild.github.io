@@ -115,7 +115,7 @@
                     text = arr[1];
                     var myRegexp = /Giving (\d*) ep to (.*)./g;
                     var match = myRegexp.exec(text);
-                    amount = Number(match[1]);
+                    amount = 50; //Number(match[1]);
                     name = match[2];
                     kw = date.getWeek()
 
