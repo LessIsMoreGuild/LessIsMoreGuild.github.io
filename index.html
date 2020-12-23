@@ -229,7 +229,10 @@
             var lines = [];
 
             //first line of csv
-            var keys = allTextLines.shift().split(';');
+            if (allTextLines[0] == "Name;ep;gp;pr") {
+                allTextLines.shift()
+            }
+            var keys = "Name;ep;gp;pr".split(';');
 
             while (allTextLines.length) {
                 var arr = allTextLines.shift().split(';');
