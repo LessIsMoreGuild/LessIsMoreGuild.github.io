@@ -1226,28 +1226,28 @@ Time;Item;Looter;GP Action;ID
 2021-03-28 22:45:14;[Bonescythe Ring];Gnomling;Mainspec GP;23060
 2021-03-28 22:45:47;[The Phylactery of Kel'Thuzad];Eichenschuss;Mainspec GP;22520
 2021-03-28 22:46:13;[Bonescythe Ring];Siladra;Mainspec GP;23060
-2021-04-01 22:04:26;[Edelstein von Nerubis];Harcort;Offspec GP;22937
-2021-04-01 22:05:40;[Eisfluchschulterstücke];Chronya;Offspec GP;22940
-2021-04-01 22:06:36;[Entweihte Armschienen];Nithalf;Offspec GP;22355
-2021-04-01 22:06:57;[Kuss der Spinne];Naiko;Mainspec GP;22954
-2021-04-01 22:04:50;[Entweihte Handschuhe];Harcort;Offspec GP;22371
-2021-04-01 22:08:01;[Band des neuen Lebens];Druidicas;Offspec GP;22961
-2021-04-01 22:08:31;[Entweihte Schiftung];Galaxee;Offspec GP;22361
-2021-04-01 22:11:34;[Todeshandel];Lariana;Offspec GP;23075
-2021-04-01 22:11:00;[Entweihter Gürtel];Kriem;Mainspec GP;22370
-2021-04-01 22:13:23;[Entweihter Reif];Gurkenzauber;Mainspec GP;22367
-2021-04-01 22:12:25;[Gepanzerter Monstrositätenbrustkorb];Nadila;Mainspec GP;23000
-2021-04-01 22:09:48;[Buchband des Lichts];Maro;Mainspec GP;23006
-2021-04-01 22:14:18;[Beinplatten des Blutbads];Nadila;Mainspec GP;23068
-2021-04-01 22:14:52;[Band der unnatürlichen Kräfte];Nóva;Mainspec GP;23038
-2021-04-01 22:15:59;[Entweihte Beinschützer];Lariana;Mainspec GP;22359
-2021-04-01 22:17:13;[Götze der Langlebigkeit];Druidicas;Offspec GP;23004
-2021-04-01 22:17:13;[Götze der Langlebigkeit];Druidicas;Offspec GP;23004
-2021-04-01 22:46:27;[Entweihte Sabatons];Nithalf;Offspec GP;22358
-2021-04-01 22:46:59;[Gletscherkopfputz];Fipsoliene;Offspec GP;23032
-2021-04-01 22:47:38;[Seelenstrang];Tasêrfacê;Mainspec GP;22811
-2021-04-01 22:48:21;[Entweihte Brustplatte];Zann;Offspec GP;22349
-2021-04-01 22:56:40;[Entweihte Robe];Fipsoliene;Mainspec GP;22351
+2021-04-01 22:04:26;[Gem of Nerubis];Harcort;Offspec GP;22937
+2021-04-01 22:05:40;[Icebane Pauldrons];Chronya;Offspec GP;22940
+2021-04-01 22:06:36;[Desecrated Bracers];Nithalf;Offspec GP;22355
+2021-04-01 22:06:57;[Kiss of the Spider];Naiko;Mainspec GP;22954
+2021-04-01 22:04:50;[Desecrated Gloves];Harcort;Offspec GP;22371
+2021-04-01 22:08:01;[Band of Reanimation];Druidicas;Offspec GP;22961
+2021-04-01 22:08:31;[Desecrated Spaulders];Galaxee;Offspec GP;22361
+2021-04-01 22:11:34;[Death's Bargain];Lariana;Offspec GP;23075
+2021-04-01 22:11:00;[Desecrated Belt];Kriem;Mainspec GP;22370
+2021-04-01 22:13:23;[Desecrated Circlet];Gurkenzauber;Mainspec GP;22367
+2021-04-01 22:12:25;[Plated Abomination Ribcage];Nadila;Mainspec GP;23000
+2021-04-01 22:09:48;[Libram of Light];Maro;Mainspec GP;23006
+2021-04-01 22:14:18;[Legplates of Carnage];Nadila;Mainspec GP;23068
+2021-04-01 22:14:52;[Band of Unnatural Forces];Nóva;Mainspec GP;23038
+2021-04-01 22:15:59;[Desecrated Legguards];Lariana;Mainspec GP;22359
+2021-04-01 22:17:13;[Idol of Longevity];Druidicas;Offspec GP;23004
+2021-04-01 22:17:13;[Idol of Longevity];Druidicas;Offspec GP;23004
+2021-04-01 22:46:27;[Desecrated Sabatons];Nithalf;Offspec GP;22358
+2021-04-01 22:46:59;[Glacial Headdress];Fipsoliene;Offspec GP;23032
+2021-04-01 22:47:38;[Soulstring];Tasêrfacê;Mainspec GP;22811
+2021-04-01 22:48:21;[Desecrated Breastplate];Zann;Offspec GP;22349
+2021-04-01 22:56:40;[Desecrated Robe];Fipsoliene;Mainspec GP;22351
 2021-04-05 20:20:51;[Sapphiron's Left Eye];Lomeluin;Mainspec GP;23049
 2021-04-05 20:07:02;[Claw of the Frost Wyrm];Chronya;Offspec GP;23242
 2021-04-05 20:23:01;[Hammer of the Twisting Nether];Antaresfm;Mainspec GP;23056
@@ -1306,31 +1306,31 @@ Time;Item;Looter;GP Action;ID
 2021-04-18 21:56:12;[Might of Menethil];Maro;Mainspec GP;22798
 2021-04-18 21:56:45;[Frostfire Ring];Xzoe;Mainspec GP;23062
 2021-04-18 21:57:05;[The Phylactery of Kel'Thuzad];Choult;Mainspec GP;22520
-2021-04-25 21:42:09;[Entweihte Armschienen];Vancora;Mainspec GP;22355
-2021-04-25 21:42:25;[Handgelenksschutz der Rache];Nadila;Mainspec GP;22936
-2021-04-25 21:54:27;[Entweihte Bindungen];Tomqp;Mainspec GP;22369
-2021-04-25 21:53:58;[Heimtückischer Steinanhänger];Fipsoliene;Mainspec GP;22943
-2021-04-25 21:55:10;[Stygischer Rundschild];Reax;Offspec GP;23238
-2021-04-25 21:55:50;[Gespensterklinge];Exts;Mainspec GP;22807
-2021-04-25 21:56:14;[Entweihte Handschuhe];Kriem;Offspec GP;22371
-2021-04-25 22:07:21;[Entweihte Sandalen];Fipsoliene;Mainspec GP;22372
-2021-04-25 22:07:27;[Entweihte Sandalen];Tomqp;Mainspec GP;22372
-2021-04-25 20:53:26;[Siegel der Verdammten];Wysiwyg;Mainspec GP;23025
-2021-04-25 22:08:34;[Entweihte Robe];Tomqp;Mainspec GP;22351
-2021-04-25 22:10:25;[Entweihte Schulterpolster];Tomqp;Mainspec GP;22368
-2021-04-25 22:09:31;[Der Seuchenbringer];Tasêrfacê;Offspec GP;22818
-2021-04-25 22:10:33;[Entweihte Schulterpolster];Lomeluin;Offspec GP;22368
-2021-04-25 22:09:59;[Toxindüse];Naiko;Offspec GP;22810
-2021-04-25 22:12:58;[Entweihte Sabatons];Vancora;Mainspec GP;22358
-2021-04-25 22:11:55;[Spitze des Zwiespalts];Arlis;Offspec GP;22801
-2021-04-25 22:12:22;[Entweihter Reif];Wongsen;Mainspec GP;22367
-2021-04-25 22:12:29;[Entweihter Reif];Tomqp;Mainspec GP;22367
-2021-04-25 22:11:17;[Entweihter Gürtel];Fipsoliene;Mainspec GP;22370
-2021-04-25 22:13:42;[Eisfluchhelm];Chronya;Offspec GP;23019
-2021-04-25 22:15:07;[Schwefelstab];Fipsoliene;Mainspec GP;22800
-2021-04-25 22:15:43;[Umhang der Nekropole];Riese;Mainspec GP;23050
-2021-04-25 22:16:17;[Wappen des Schlächters];Siladra;Mainspec GP;23041
-2021-04-25 22:17:47;[Gressil, Vorbote des Untergangs];Nessy;Mainspec GP;23054
-2021-04-25 22:18:15;[Seelensucher];Kriem;Mainspec GP;22799
-2021-04-25 22:19:28;[Ring des Glaubens];Radogan;Mainspec GP;23061
-2021-04-25 22:21:16;[Kel'Thuzads Phylakterium];Naiko;Mainspec GP;22520
+2021-04-25 21:42:09;[Desecrated Bracers];Vancora;Mainspec GP;22355
+2021-04-25 21:42:25;[Wristguards of Vengeance];Nadila;Mainspec GP;22936
+2021-04-25 21:54:27;[Desecrated Bindings];Tomqp;Mainspec GP;22369
+2021-04-25 21:53:58;[Malice Stone Pendant];Fipsoliene;Mainspec GP;22943
+2021-04-25 21:55:10;[Stygian Buckler];Reax;Offspec GP;23238
+2021-04-25 21:55:50;[Wraith Blade];Exts;Mainspec GP;22807
+2021-04-25 21:56:14;[Desecrated Gloves];Kriem;Offspec GP;22371
+2021-04-25 22:07:21;[Desecrated Sandals];Fipsoliene;Mainspec GP;22372
+2021-04-25 22:07:27;[Desecrated Sandals];Tomqp;Mainspec GP;22372
+2021-04-25 20:53:26;[Seal of the Damned];Wysiwyg;Mainspec GP;23025
+2021-04-25 22:08:34;[Desecrated Robe];Tomqp;Mainspec GP;22351
+2021-04-25 22:10:25;[Desecrated Shoulderpads];Tomqp;Mainspec GP;22368
+2021-04-25 22:09:31;[The Plague Bearer];Tasêrfacê;Offspec GP;22818
+2021-04-25 22:10:33;[Desecrated Shoulderpads];Lomeluin;Offspec GP;22368
+2021-04-25 22:09:59;[Toxin Injector];Naiko;Offspec GP;22810
+2021-04-25 22:12:58;[Desecrated Sabatons];Vancora;Mainspec GP;22358
+2021-04-25 22:11:55;[Spire of Twilight];Arlis;Offspec GP;22801
+2021-04-25 22:12:22;[Desecrated Circlet];Wongsen;Mainspec GP;22367
+2021-04-25 22:12:29;[Desecrated Circlet];Tomqp;Mainspec GP;22367
+2021-04-25 22:11:17;[Desecrated Belt];Fipsoliene;Mainspec GP;22370
+2021-04-25 22:13:42;[Icebane Helmet];Chronya;Offspec GP;23019
+2021-04-25 22:15:07;[Brimstone Staff];Fipsoliene;Mainspec GP;22800
+2021-04-25 22:15:43;[Cloak of the Necropolis];Riese;Mainspec GP;23050
+2021-04-25 22:16:17;[Slayer's Crest];Siladra;Mainspec GP;23041
+2021-04-25 22:17:47;[Gressil, Dawn of Ruin];Nessy;Mainspec GP;23054
+2021-04-25 22:18:15;[Soulseeker];Kriem;Mainspec GP;22799
+2021-04-25 22:19:28;[Ring of Faith];Radogan;Mainspec GP;23061
+2021-04-25 22:21:16;[The Phylactery of Kel'Thuzad];Naiko;Mainspec GP;22520
