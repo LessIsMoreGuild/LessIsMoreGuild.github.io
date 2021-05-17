@@ -25,7 +25,8 @@ Time;Item;Looter;GP Action;ID
 2020-06-14 20:37:40;[Dragonstalker's Spaulders];Rhyme;Mainspec GP;16937
 2020-06-14 20:38:20;[Angelista's Grasp];Radogan;Offspec GP;19388
 2020-06-14 20:45:37;[Dragonstalker's Breastplate];Rhyme;Mainspec GP;16942
-2020-06-14 20:46:23;[Mish'undare, Circlet of the Mind Flayer];Wysiwyg;Mainspec GP;19375
+2020-06-14 20:46:23;[Mish'undare, Circlet of the Mind Flayer];
+;Mainspec GP;19375
 2020-06-14 20:46:57;[Pure Elementium Band];Trixxy;Mainspec GP;19382
 2020-06-14 20:47:42;[Head of Nefarian];Maro;Offspec GP;19002
 2020-06-21 19:57:09;[Helm of Endless Rage];Zann;Offspec GP;19372
@@ -1399,6 +1400,7 @@ Time;Item;Looter;GP Action;ID
 2021-05-16 22:50:19;[Desecrated Breastplate];Naiko;Mainspec GP;22349
 2021-05-16 22:42:36;[Seal of the Damned];Bongtron;Offspec GP;23025
 2021-05-16 22:47:55;[Shroud of Dominion];Eichenschuss;Mainspec GP;23045
+2021-05-16 22:48:55;[The Restrained Essence of Sapphiron];Hacort;Mainspec GP;23046
 2021-05-16 22:54:11;[Kingsfall];Rhyme;Mainspec GP;22802
 2021-05-16 22:54:41;[Doomfinger];Kriem;Mainspec GP;22821
 2021-05-16 22:55:28;[The Phylactery of Kel'Thuzad];Playmate;Mainspec GP;22520
